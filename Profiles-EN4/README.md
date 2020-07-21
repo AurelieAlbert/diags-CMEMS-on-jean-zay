@@ -2,4 +2,7 @@
 
 
 ## Selection of the profiles for the region and date
-  - notebook : 
+  - notebook : https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/2020-07-21-AA-debug-select-profiles-EN4-region-MED-1month-on-lgge1994.ipynb
+  - map of locations of the profiles :
+![plot](https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/profiles_MEDWEST60_y2010m02d05-y2010m03d06.png)  
+  - problem : get rid of the profiles in Atlantic, check if in ocean or land in MEDWEST60
