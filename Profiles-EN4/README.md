@@ -6,4 +6,4 @@
   - map of locations of the profiles :
 ![plot](https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/profiles_MEDWEST60_y2010m02d05-y2010m03d06.png)  
   - problem : get rid of the profiles in Atlantic or near Corsica (too close to the boundary), check if 1° circle in ocean or land in MEDWEST60 mask
-  - also : very fex profiles ~30 for the region and dates 
+  - also : very few profiles ~30 for the region and dates, compare with profiles from other years with same date ? (climatological ?) 
