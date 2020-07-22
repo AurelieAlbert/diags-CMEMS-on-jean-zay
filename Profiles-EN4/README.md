@@ -9,3 +9,19 @@
   - also : very few profiles ~30 for the region and dates, compare with profiles from other years with same date ? (climatological ?) 
   
 => diag on eNATL60MED 1year of data first !
+
+## Colocalisation of profiles with eNATL60
+
+  - sosie on jean-zay
+    - in /gpfswork/rech/egi/rote001/git : ```git clone https://github.com/brodeau/sosie.git```
+    - in .bashrc : 
+    ```module load intel-all/19.0.4
+       module load hdf5/1.8.21-mpi
+       module load netcdf/4.7.2-mpi
+       module load netcdf-fortran/4.5.2-mpi
+       module load netcdf-cxx4/4.3.1-mpi
+    ```
+    - in /gpfswork/rech/egi/rote001/git/sosie : ``` ln -sf macro/make.macro_ifort_JEAN-ZAY make.macro; make```
+
+
+I
