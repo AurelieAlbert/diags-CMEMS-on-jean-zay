@@ -1,0 +1,2458 @@
+{
+    "b'                                '": {
+        "date": "2010-09-26T20:42:00.000000000",
+        "file": "20100926_prof.nc",
+        "latitude": 37.249,
+        "longitude": 8.923,
+        "profile no": 6,
+        "reference": "b'                                '"
+    },
+    "b'12031822                        '": {
+        "date": "2010-01-03T00:02:00.000000000",
+        "file": "20100103_prof.nc",
+        "latitude": 40.534,
+        "longitude": 4.583,
+        "profile no": 67,
+        "reference": "b'12031822                        '"
+    },
+    "b'12037302                        '": {
+        "date": "2010-01-04T22:36:00.000000000",
+        "file": "20100104_prof.nc",
+        "latitude": 39.418,
+        "longitude": 1.983,
+        "profile no": 3,
+        "reference": "b'12037302                        '"
+    },
+    "b'12064460                        '": {
+        "date": "2010-01-05T23:14:00.000000000",
+        "file": "20100105_prof.nc",
+        "latitude": 37.32,
+        "longitude": 9.368,
+        "profile no": 0,
+        "reference": "b'12064460                        '"
+    },
+    "b'12066941                        '": {
+        "date": "2010-01-06T01:22:00.000000000",
+        "file": "20100106_prof.nc",
+        "latitude": 40.407,
+        "longitude": 4.509,
+        "profile no": 71,
+        "reference": "b'12066941                        '"
+    },
+    "b'12081134                        '": {
+        "date": "2010-01-05T06:43:14.000000000",
+        "file": "20100105_prof.nc",
+        "latitude": 39.028,
+        "longitude": 7.485,
+        "profile no": 56,
+        "reference": "b'12081134                        '"
+    },
+    "b'12083246                        '": {
+        "date": "2010-01-08T00:02:00.000000000",
+        "file": "20100108_prof.nc",
+        "latitude": 40.667,
+        "longitude": 4.361,
+        "profile no": 92,
+        "reference": "b'12083246                        '"
+    },
+    "b'12088114                        '": {
+        "date": "2010-01-10T05:41:31.000000000",
+        "file": "20100110_prof.nc",
+        "latitude": 39.201,
+        "longitude": 7.445,
+        "profile no": 81,
+        "reference": "b'12088114                        '"
+    },
+    "b'12088142                        '": {
+        "date": "2010-01-10T11:59:12.000000000",
+        "file": "20100110_prof.nc",
+        "latitude": 45.018,
+        "longitude": -2.548,
+        "profile no": 55,
+        "reference": "b'12088142                        '"
+    },
+    "b'12088443                        '": {
+        "date": "2010-01-10T23:58:00.000000000",
+        "file": "20100110_prof.nc",
+        "latitude": 40.373,
+        "longitude": 4.424,
+        "profile no": 0,
+        "reference": "b'12088443                        '"
+    },
+    "b'12090246                        '": {
+        "date": "2010-01-08T00:14:00.000000000",
+        "file": "20100108_prof.nc",
+        "latitude": 41.968,
+        "longitude": 4.606,
+        "profile no": 90,
+        "reference": "b'12090246                        '"
+    },
+    "b'12119760                        '": {
+        "date": "2010-01-13T01:32:00.000000000",
+        "file": "20100113_prof.nc",
+        "latitude": 40.672,
+        "longitude": 4.335,
+        "profile no": 69,
+        "reference": "b'12119760                        '"
+    },
+    "b'12123425                        '": {
+        "date": "2010-01-14T21:35:00.000000000",
+        "file": "20100114_prof.nc",
+        "latitude": 38.915,
+        "longitude": 1.915,
+        "profile no": 3,
+        "reference": "b'12123425                        '"
+    },
+    "b'12128162                        '": {
+        "date": "2010-01-15T23:58:00.000000000",
+        "file": "20100115_prof.nc",
+        "latitude": 40.267,
+        "longitude": 4.454,
+        "profile no": 0,
+        "reference": "b'12128162                        '"
+    },
+    "b'12131641                        '": {
+        "date": "2010-01-18T00:02:00.000000000",
+        "file": "20100118_prof.nc",
+        "latitude": 40.597,
+        "longitude": 4.319,
+        "profile no": 88,
+        "reference": "b'12131641                        '"
+    },
+    "b'12131959                        '": {
+        "date": "2010-01-15T06:41:58.000000000",
+        "file": "20100115_prof.nc",
+        "latitude": 39.313,
+        "longitude": 7.33,
+        "profile no": 58,
+        "reference": "b'12131959                        '"
+    },
+    "b'12167602                        '": {
+        "date": "2010-01-20T05:27:44.000000000",
+        "file": "20100120_prof.nc",
+        "latitude": 39.192,
+        "longitude": 7.063,
+        "profile no": 91,
+        "reference": "b'12167602                        '"
+    },
+    "b'12167720                        '": {
+        "date": "2010-01-20T09:45:11.000000000",
+        "file": "20100120_prof.nc",
+        "latitude": 44.897,
+        "longitude": -2.396,
+        "profile no": 78,
+        "reference": "b'12167720                        '"
+    },
+    "b'12170423                        '": {
+        "date": "2010-01-18T00:20:00.000000256",
+        "file": "20100118_prof.nc",
+        "latitude": 42.022,
+        "longitude": 4.726,
+        "profile no": 85,
+        "reference": "b'12170423                        '"
+    },
+    "b'12170721                        '": {
+        "date": "2010-01-20T23:52:00.000000000",
+        "file": "20100120_prof.nc",
+        "latitude": 40.115,
+        "longitude": 4.659,
+        "profile no": 0,
+        "reference": "b'12170721                        '"
+    },
+    "b'12173705                        '": {
+        "date": "2010-01-23T00:02:00.000000000",
+        "file": "20100123_prof.nc",
+        "latitude": 40.644,
+        "longitude": 4.389,
+        "profile no": 72,
+        "reference": "b'12173705                        '"
+    },
+    "b'12177640                        '": {
+        "date": "2010-01-24T21:05:00.000000000",
+        "file": "20100124_prof.nc",
+        "latitude": 38.609,
+        "longitude": 1.723,
+        "profile no": 5,
+        "reference": "b'12177640                        '"
+    },
+    "b'12190200                        '": {
+        "date": "2010-01-25T06:42:45.000000000",
+        "file": "20100125_prof.nc",
+        "latitude": 39.167,
+        "longitude": 6.642,
+        "profile no": 57,
+        "reference": "b'12190200                        '"
+    },
+    "b'12190562                        '": {
+        "date": "2010-01-25T23:52:00.000000000",
+        "file": "20100125_prof.nc",
+        "latitude": 39.859,
+        "longitude": 4.779,
+        "profile no": 1,
+        "reference": "b'12190562                        '"
+    },
+    "b'12212761                        '": {
+        "date": "2010-01-28T00:02:00.000000000",
+        "file": "20100128_prof.nc",
+        "latitude": 40.702,
+        "longitude": 4.274,
+        "profile no": 94,
+        "reference": "b'12212761                        '"
+    },
+    "b'12228220                        '": {
+        "date": "2010-01-30T01:06:48.000000000",
+        "file": "20100130_prof.nc",
+        "latitude": 39.213,
+        "longitude": 6.291,
+        "profile no": 112,
+        "reference": "b'12228220                        '"
+    },
+    "b'12228601                        '": {
+        "date": "2010-01-30T11:28:03.000000000",
+        "file": "20100130_prof.nc",
+        "latitude": 44.955,
+        "longitude": -2.38,
+        "profile no": 60,
+        "reference": "b'12228601                        '"
+    },
+    "b'12231394                        '": {
+        "date": "2010-01-28T00:20:00.000000256",
+        "file": "20100128_prof.nc",
+        "latitude": 41.868,
+        "longitude": 4.705,
+        "profile no": 92,
+        "reference": "b'12231394                        '"
+    },
+    "b'12263502                        '": {
+        "date": "2010-02-02T00:03:00.000000000",
+        "file": "20100202_prof.nc",
+        "latitude": 40.701,
+        "longitude": 4.197,
+        "profile no": 70,
+        "reference": "b'12263502                        '"
+    },
+    "b'12268371                        '": {
+        "date": "2010-01-31T01:22:00.000000000",
+        "file": "20100131_prof.nc",
+        "latitude": 39.648,
+        "longitude": 4.774,
+        "profile no": 83,
+        "reference": "b'12268371                        '"
+    },
+    "b'12269160                        '": {
+        "date": "2010-02-03T20:41:00.000000000",
+        "file": "20100203_prof.nc",
+        "latitude": 38.636,
+        "longitude": 1.783,
+        "profile no": 7,
+        "reference": "b'12269160                        '"
+    },
+    "b'12283498                        '": {
+        "date": "2010-02-04T05:47:01.000000000",
+        "file": "20100204_prof.nc",
+        "latitude": 39.2,
+        "longitude": 6.001,
+        "profile no": 61,
+        "reference": "b'12283498                        '"
+    },
+    "b'12283941                        '": {
+        "date": "2010-02-04T23:58:00.000000000",
+        "file": "20100204_prof.nc",
+        "latitude": 39.665,
+        "longitude": 4.749,
+        "profile no": 0,
+        "reference": "b'12283941                        '"
+    },
+    "b'12325821                        '": {
+        "date": "2010-02-09T09:42:12.000000000",
+        "file": "20100209_prof.nc",
+        "latitude": 45.025,
+        "longitude": -2.723,
+        "profile no": 65,
+        "reference": "b'12325821                        '"
+    },
+    "b'12326465                        '": {
+        "date": "2010-02-07T00:14:00.000000000",
+        "file": "20100207_prof.nc",
+        "latitude": 41.467,
+        "longitude": 4.369,
+        "profile no": 92,
+        "reference": "b'12326465                        '"
+    },
+    "b'12326466                        '": {
+        "date": "2010-02-07T01:27:00.000000000",
+        "file": "20100207_prof.nc",
+        "latitude": 40.83,
+        "longitude": 4.181,
+        "profile no": 87,
+        "reference": "b'12326466                        '"
+    },
+    "b'12345479                        '": {
+        "date": "2010-02-09T05:50:47.000000000",
+        "file": "20100209_prof.nc",
+        "latitude": 39.281,
+        "longitude": 5.763,
+        "profile no": 79,
+        "reference": "b'12345479                        '"
+    },
+    "b'12347522                        '": {
+        "date": "2010-02-09T23:52:00.000000000",
+        "file": "20100209_prof.nc",
+        "latitude": 39.603,
+        "longitude": 4.674,
+        "profile no": 0,
+        "reference": "b'12347522                        '"
+    },
+    "b'12350710                        '": {
+        "date": "2010-02-14T06:43:31.999999744",
+        "file": "20100214_prof.nc",
+        "latitude": 39.451,
+        "longitude": 5.845,
+        "profile no": 57,
+        "reference": "b'12350710                        '"
+    },
+    "b'12351082                        '": {
+        "date": "2010-02-15T00:04:00.000000256",
+        "file": "20100215_prof.nc",
+        "latitude": 39.407,
+        "longitude": 4.625,
+        "profile no": 81,
+        "reference": "b'12351082                        '"
+    },
+    "b'12351085                        '": {
+        "date": "2010-02-14T21:42:00.000000000",
+        "file": "20100214_prof.nc",
+        "latitude": 41.671,
+        "longitude": 9.51,
+        "profile no": 3,
+        "reference": "b'12351085                        '"
+    },
+    "b'12352632                        '": {
+        "date": "2010-02-12T00:15:00.000000000",
+        "file": "20100212_prof.nc",
+        "latitude": 40.752,
+        "longitude": 4.1,
+        "profile no": 77,
+        "reference": "b'12352632                        '"
+    },
+    "b'12371584                        '": {
+        "date": "2010-02-17T00:03:00.000000000",
+        "file": "20100217_prof.nc",
+        "latitude": 40.665,
+        "longitude": 4.016,
+        "profile no": 101,
+        "reference": "b'12371584                        '"
+    },
+    "b'12371754                        '": {
+        "date": "2010-02-13T21:16:59.999999744",
+        "file": "20100213_prof.nc",
+        "latitude": 38.597,
+        "longitude": 1.824,
+        "profile no": 3,
+        "reference": "b'12371754                        '"
+    },
+    "b'12390680                        '": {
+        "date": "2010-02-19T12:19:15.000000000",
+        "file": "20100219_prof.nc",
+        "latitude": 44.945,
+        "longitude": -2.891,
+        "profile no": 36,
+        "reference": "b'12390680                        '"
+    },
+    "b'12391000                        '": {
+        "date": "2010-02-17T01:25:59.999999744",
+        "file": "20100217_prof.nc",
+        "latitude": 41.352,
+        "longitude": 4.585,
+        "profile no": 96,
+        "reference": "b'12391000                        '"
+    },
+    "b'12393860                        '": {
+        "date": "2010-02-19T23:58:00.000000000",
+        "file": "20100219_prof.nc",
+        "latitude": 39.206,
+        "longitude": 4.701,
+        "profile no": 0,
+        "reference": "b'12393860                        '"
+    },
+    "b'12393861                        '": {
+        "date": "2010-02-15T07:51:00.000000000",
+        "file": "20100215_prof.nc",
+        "latitude": 41.593,
+        "longitude": 9.508,
+        "profile no": 57,
+        "reference": "b'12393861                        '"
+    },
+    "b'12396134                        '": {
+        "date": "2010-02-19T06:05:39.000000000",
+        "file": "20100219_prof.nc",
+        "latitude": 39.499,
+        "longitude": 5.951,
+        "profile no": 72,
+        "reference": "b'12396134                        '"
+    },
+    "b'12397942                        '": {
+        "date": "2010-02-22T00:15:00.000000000",
+        "file": "20100222_prof.nc",
+        "latitude": 40.929,
+        "longitude": 4.123,
+        "profile no": 71,
+        "reference": "b'12397942                        '"
+    },
+    "b'12429301                        '": {
+        "date": "2010-02-23T22:22:00.000000000",
+        "file": "20100223_prof.nc",
+        "latitude": 38.365,
+        "longitude": 1.455,
+        "profile no": 3,
+        "reference": "b'12429301                        '"
+    },
+    "b'12433600                        '": {
+        "date": "2010-03-01T06:31:39.000000000",
+        "file": "20100301_prof.nc",
+        "latitude": 39.22,
+        "longitude": 5.977,
+        "profile no": 82,
+        "reference": "b'12433600                        '"
+    },
+    "b'12433646                        '": {
+        "date": "2010-02-25T01:22:00.000000000",
+        "file": "20100225_prof.nc",
+        "latitude": 38.939,
+        "longitude": 4.849,
+        "profile no": 65,
+        "reference": "b'12433646                        '"
+    },
+    "b'12433701                        '": {
+        "date": "2010-02-27T00:08:00.000000000",
+        "file": "20100227_prof.nc",
+        "latitude": 41.729,
+        "longitude": 4.932,
+        "profile no": 99,
+        "reference": "b'12433701                        '"
+    },
+    "b'12433702                        '": {
+        "date": "2010-02-27T00:03:00.000000000",
+        "file": "20100227_prof.nc",
+        "latitude": 40.931,
+        "longitude": 3.944,
+        "profile no": 100,
+        "reference": "b'12433702                        '"
+    },
+    "b'12484425                        '": {
+        "date": "2010-03-01T11:50:17.000000256",
+        "file": "20100301_prof.nc",
+        "latitude": 45.079,
+        "longitude": -3.277,
+        "profile no": 46,
+        "reference": "b'12484425                        '"
+    },
+    "b'12484503                        '": {
+        "date": "2010-03-04T01:39:00.000000000",
+        "file": "20100304_prof.nc",
+        "latitude": 40.738,
+        "longitude": 4.024,
+        "profile no": 75,
+        "reference": "b'12484503                        '"
+    },
+    "b'12498702                        '": {
+        "date": "2010-03-01T23:58:00.000000000",
+        "file": "20100301_prof.nc",
+        "latitude": 38.784,
+        "longitude": 4.941,
+        "profile no": 0,
+        "reference": "b'12498702                        '"
+    },
+    "b'12502060                        '": {
+        "date": "2010-03-05T23:39:59.999999744",
+        "file": "20100305_prof.nc",
+        "latitude": 38.217,
+        "longitude": 1.264,
+        "profile no": 2,
+        "reference": "b'12502060                        '"
+    },
+    "b'12502861                        '": {
+        "date": "2010-03-06T23:58:00.000000000",
+        "file": "20100306_prof.nc",
+        "latitude": 38.773,
+        "longitude": 4.827,
+        "profile no": 0,
+        "reference": "b'12502861                        '"
+    },
+    "b'12521072                        '": {
+        "date": "2010-03-06T06:44:39.000000000",
+        "file": "20100306_prof.nc",
+        "latitude": 39.316,
+        "longitude": 5.672,
+        "profile no": 61,
+        "reference": "b'12521072                        '"
+    },
+    "b'12554582                        '": {
+        "date": "2010-03-11T09:44:04.000000000",
+        "file": "20100311_prof.nc",
+        "latitude": 45.072,
+        "longitude": -3.183,
+        "profile no": 70,
+        "reference": "b'12554582                        '"
+    },
+    "b'12555061                        '": {
+        "date": "2010-03-11T23:52:00.000000000",
+        "file": "20100311_prof.nc",
+        "latitude": 38.64,
+        "longitude": 4.511,
+        "profile no": 0,
+        "reference": "b'12555061                        '"
+    },
+    "b'12557082                        '": {
+        "date": "2010-03-08T23:55:59.999999744",
+        "file": "20100308_prof.nc",
+        "latitude": 42.33,
+        "longitude": 5.375,
+        "profile no": 1,
+        "reference": "b'12557082                        '"
+    },
+    "b'12557083                        '": {
+        "date": "2010-03-09T00:03:00.000000000",
+        "file": "20100309_prof.nc",
+        "latitude": 40.699,
+        "longitude": 3.876,
+        "profile no": 97,
+        "reference": "b'12557083                        '"
+    },
+    "b'12557360                        '": {
+        "date": "2010-03-11T05:50:35.999999744",
+        "file": "20100311_prof.nc",
+        "latitude": 39.618,
+        "longitude": 5.697,
+        "profile no": 80,
+        "reference": "b'12557360                        '"
+    },
+    "b'12596020                        '": {
+        "date": "2010-03-16T06:41:21.000000000",
+        "file": "20100316_prof.nc",
+        "latitude": 39.675,
+        "longitude": 6.087,
+        "profile no": 61,
+        "reference": "b'12596020                        '"
+    },
+    "b'12618174                        '": {
+        "date": "2010-03-19T00:09:00.000000000",
+        "file": "20100319_prof.nc",
+        "latitude": 40.562,
+        "longitude": 3.827,
+        "profile no": 99,
+        "reference": "b'12618174                        '"
+    },
+    "b'12618487                        '": {
+        "date": "2010-03-15T23:39:59.999999744",
+        "file": "20100315_prof.nc",
+        "latitude": 38.153,
+        "longitude": 0.997,
+        "profile no": 0,
+        "reference": "b'12618487                        '"
+    },
+    "b'12620801                        '": {
+        "date": "2010-03-19T00:14:00.000000000",
+        "file": "20100319_prof.nc",
+        "latitude": 42.289,
+        "longitude": 4.682,
+        "profile no": 97,
+        "reference": "b'12620801                        '"
+    },
+    "b'12628146                        '": {
+        "date": "2010-03-16T23:58:00.000000000",
+        "file": "20100316_prof.nc",
+        "latitude": 38.638,
+        "longitude": 4.152,
+        "profile no": 0,
+        "reference": "b'12628146                        '"
+    },
+    "b'12628234                        '": {
+        "date": "2010-03-13T23:57:00.000000000",
+        "file": "20100313_prof.nc",
+        "latitude": 40.639,
+        "longitude": 3.774,
+        "profile no": 0,
+        "reference": "b'12628234                        '"
+    },
+    "b'12633040                        '": {
+        "date": "2010-03-21T01:07:38.000000000",
+        "file": "20100321_prof.nc",
+        "latitude": 39.472,
+        "longitude": 6.219,
+        "profile no": 92,
+        "reference": "b'12633040                        '"
+    },
+    "b'12635300                        '": {
+        "date": "2010-03-21T09:46:33.000000000",
+        "file": "20100321_prof.nc",
+        "latitude": 45.03,
+        "longitude": -3.024,
+        "profile no": 63,
+        "reference": "b'12635300                        '"
+    },
+    "b'12650800                        '": {
+        "date": "2010-03-22T01:28:00.000000000",
+        "file": "20100322_prof.nc",
+        "latitude": 38.682,
+        "longitude": 4.088,
+        "profile no": 60,
+        "reference": "b'12650800                        '"
+    },
+    "b'12676481                        '": {
+        "date": "2010-03-24T00:09:00.000000000",
+        "file": "20100324_prof.nc",
+        "latitude": 40.695,
+        "longitude": 3.57,
+        "profile no": 78,
+        "reference": "b'12676481                        '"
+    },
+    "b'12696920                        '": {
+        "date": "2010-03-25T23:34:00.000000000",
+        "file": "20100325_prof.nc",
+        "latitude": 38.092,
+        "longitude": 0.744,
+        "profile no": 1,
+        "reference": "b'12696920                        '"
+    },
+    "b'12700201                        '": {
+        "date": "2010-03-26T23:52:00.000000000",
+        "file": "20100326_prof.nc",
+        "latitude": 38.826,
+        "longitude": 4.182,
+        "profile no": 0,
+        "reference": "b'12700201                        '"
+    },
+    "b'12705361                        '": {
+        "date": "2010-03-26T05:53:01.000000000",
+        "file": "20100326_prof.nc",
+        "latitude": 39.452,
+        "longitude": 5.904,
+        "profile no": 55,
+        "reference": "b'12705361                        '"
+    },
+    "b'12705582                        '": {
+        "date": "2010-03-29T00:14:00.000000000",
+        "file": "20100329_prof.nc",
+        "latitude": 42.638,
+        "longitude": 5.621,
+        "profile no": 95,
+        "reference": "b'12705582                        '"
+    },
+    "b'12740202                        '": {
+        "date": "2010-03-31T09:54:16.000000256",
+        "file": "20100331_prof.nc",
+        "latitude": 44.806,
+        "longitude": -2.741,
+        "profile no": 75,
+        "reference": "b'12740202                        '"
+    },
+    "b'12740600                        '": {
+        "date": "2010-03-29T01:33:00.000000000",
+        "file": "20100329_prof.nc",
+        "latitude": 40.542,
+        "longitude": 3.492,
+        "profile no": 91,
+        "reference": "b'12740600                        '"
+    },
+    "b'12742901                        '": {
+        "date": "2010-03-31T23:58:00.000000000",
+        "file": "20100331_prof.nc",
+        "latitude": 38.809,
+        "longitude": 4.338,
+        "profile no": 0,
+        "reference": "b'12742901                        '"
+    },
+    "b'12757230                        '": {
+        "date": "2010-03-31T06:51:27.000000000",
+        "file": "20100331_prof.nc",
+        "latitude": 39.372,
+        "longitude": 6.086,
+        "profile no": 83,
+        "reference": "b'12757230                        '"
+    },
+    "b'12757722                        '": {
+        "date": "2010-04-03T00:03:00.000000000",
+        "file": "20100403_prof.nc",
+        "latitude": 40.625,
+        "longitude": 3.548,
+        "profile no": 85,
+        "reference": "b'12757722                        '"
+    },
+    "b'12765462                        '": {
+        "date": "2010-04-05T01:09:59.999999744",
+        "file": "20100405_prof.nc",
+        "latitude": 37.912,
+        "longitude": 0.48,
+        "profile no": 75,
+        "reference": "b'12765462                        '"
+    },
+    "b'12766101                        '": {
+        "date": "2010-04-05T23:53:00.000000000",
+        "file": "20100405_prof.nc",
+        "latitude": 38.832,
+        "longitude": 4.396,
+        "profile no": 0,
+        "reference": "b'12766101                        '"
+    },
+    "b'12807482                        '": {
+        "date": "2010-04-05T06:45:40.000000000",
+        "file": "20100405_prof.nc",
+        "latitude": 39.356,
+        "longitude": 6.668,
+        "profile no": 56,
+        "reference": "b'12807482                        '"
+    },
+    "b'12807560                        '": {
+        "date": "2010-04-08T00:08:00.000000000",
+        "file": "20100408_prof.nc",
+        "latitude": 42.926,
+        "longitude": 5.093,
+        "profile no": 96,
+        "reference": "b'12807560                        '"
+    },
+    "b'12816640                        '": {
+        "date": "2010-04-09T04:55:36.000000000",
+        "file": "20100409_prof.nc",
+        "latitude": 44.56,
+        "longitude": -4.922,
+        "profile no": 79,
+        "reference": "b'12816640                        '"
+    },
+    "b'12819220                        '": {
+        "date": "2010-04-10T05:45:11.000000000",
+        "file": "20100410_prof.nc",
+        "latitude": 39.493,
+        "longitude": 6.893,
+        "profile no": 78,
+        "reference": "b'12819220                        '"
+    },
+    "b'12819303                        '": {
+        "date": "2010-04-10T09:51:30.000000000",
+        "file": "20100410_prof.nc",
+        "latitude": 44.625,
+        "longitude": -2.933,
+        "profile no": 65,
+        "reference": "b'12819303                        '"
+    },
+    "b'12819524                        '": {
+        "date": "2010-04-10T23:53:00.000000000",
+        "file": "20100410_prof.nc",
+        "latitude": 38.875,
+        "longitude": 4.493,
+        "profile no": 0,
+        "reference": "b'12819524                        '"
+    },
+    "b'12821444                        '": {
+        "date": "2010-04-08T00:09:00.000000000",
+        "file": "20100408_prof.nc",
+        "latitude": 40.521,
+        "longitude": 3.58,
+        "profile no": 95,
+        "reference": "b'12821444                        '"
+    },
+    "b'12826483                        '": {
+        "date": "2010-04-12T23:57:00.000000000",
+        "file": "20100412_prof.nc",
+        "latitude": 40.317,
+        "longitude": 4.145,
+        "profile no": 0,
+        "reference": "b'12826483                        '"
+    },
+    "b'12861621                        '": {
+        "date": "2010-04-14T23:33:00.000000000",
+        "file": "20100414_prof.nc",
+        "latitude": 37.674,
+        "longitude": 0.306,
+        "profile no": 2,
+        "reference": "b'12861621                        '"
+    },
+    "b'12861701                        '": {
+        "date": "2010-04-15T05:46:10.000000000",
+        "file": "20100415_prof.nc",
+        "latitude": 39.933,
+        "longitude": 6.869,
+        "profile no": 65,
+        "reference": "b'12861701                        '"
+    },
+    "b'12878762                        '": {
+        "date": "2010-04-16T01:17:00.000000000",
+        "file": "20100416_prof.nc",
+        "latitude": 38.837,
+        "longitude": 4.497,
+        "profile no": 74,
+        "reference": "b'12878762                        '"
+    },
+    "b'12882000                        '": {
+        "date": "2010-04-18T00:10:00.000000000",
+        "file": "20100418_prof.nc",
+        "latitude": 40.133,
+        "longitude": 4.399,
+        "profile no": 93,
+        "reference": "b'12882000                        '"
+    },
+    "b'12884220                        '": {
+        "date": "2010-04-18T00:02:00.000000000",
+        "file": "20100418_prof.nc",
+        "latitude": 42.534,
+        "longitude": 4.424,
+        "profile no": 96,
+        "reference": "b'12884220                        '"
+    },
+    "b'12887081                        '": {
+        "date": "2010-04-19T06:00:07.000000000",
+        "file": "20100419_prof.nc",
+        "latitude": 44.334,
+        "longitude": -4.682,
+        "profile no": 81,
+        "reference": "b'12887081                        '"
+    },
+    "b'12905039                        '": {
+        "date": "2010-04-20T06:48:12.999999744",
+        "file": "20100420_prof.nc",
+        "latitude": 40.449,
+        "longitude": 6.367,
+        "profile no": 74,
+        "reference": "b'12905039                        '"
+    },
+    "b'12920340                        '": {
+        "date": "2010-04-20T09:52:14.999999744",
+        "file": "20100420_prof.nc",
+        "latitude": 44.817,
+        "longitude": -2.874,
+        "profile no": 63,
+        "reference": "b'12920340                        '"
+    },
+    "b'12920680                        '": {
+        "date": "2010-04-20T23:59:00.000000000",
+        "file": "20100420_prof.nc",
+        "latitude": 38.797,
+        "longitude": 4.538,
+        "profile no": 0,
+        "reference": "b'12920680                        '"
+    },
+    "b'12936420                        '": {
+        "date": "2010-04-22T23:46:00.000000000",
+        "file": "20100422_prof.nc",
+        "latitude": 40.14,
+        "longitude": 4.328,
+        "profile no": 0,
+        "reference": "b'12936420                        '"
+    },
+    "b'12951461                        '": {
+        "date": "2010-04-24T23:33:00.000000000",
+        "file": "20100424_prof.nc",
+        "latitude": 37.337,
+        "longitude": -0.016999999999995907,
+        "profile no": 0,
+        "reference": "b'12951461                        '"
+    },
+    "b'12951780                        '": {
+        "date": "2010-04-25T05:32:33.000000000",
+        "file": "20100425_prof.nc",
+        "latitude": 40.926,
+        "longitude": 5.961,
+        "profile no": 66,
+        "reference": "b'12951780                        '"
+    },
+    "b'12952781                        '": {
+        "date": "2010-04-25T23:59:00.000000000",
+        "file": "20100425_prof.nc",
+        "latitude": 38.729,
+        "longitude": 4.571,
+        "profile no": 0,
+        "reference": "b'12952781                        '"
+    },
+    "b'12990440                        '": {
+        "date": "2010-04-27T22:40:00.000000000",
+        "file": "20100427_prof.nc",
+        "latitude": 39.988,
+        "longitude": 4.4,
+        "profile no": 3,
+        "reference": "b'12990440                        '"
+    },
+    "b'12990461                        '": {
+        "date": "2010-04-28T00:20:00.000000256",
+        "file": "20100428_prof.nc",
+        "latitude": 42.035,
+        "longitude": 3.862,
+        "profile no": 100,
+        "reference": "b'12990461                        '"
+    },
+    "b'13007456                        '": {
+        "date": "2010-04-29T04:24:47.000000000",
+        "file": "20100429_prof.nc",
+        "latitude": 44.772,
+        "longitude": -4.491,
+        "profile no": 84,
+        "reference": "b'13007456                        '"
+    },
+    "b'13008740                        '": {
+        "date": "2010-04-30T05:50:28.000000000",
+        "file": "20100430_prof.nc",
+        "latitude": 41.347,
+        "longitude": 6.318,
+        "profile no": 86,
+        "reference": "b'13008740                        '"
+    },
+    "b'13009022                        '": {
+        "date": "2010-04-30T10:07:44.000000256",
+        "file": "20100430_prof.nc",
+        "latitude": 44.744,
+        "longitude": -3.071,
+        "profile no": 72,
+        "reference": "b'13009022                        '"
+    },
+    "b'13009221                        '": {
+        "date": "2010-04-30T23:59:00.000000000",
+        "file": "20100430_prof.nc",
+        "latitude": 38.521,
+        "longitude": 4.69,
+        "profile no": 0,
+        "reference": "b'13009221                        '"
+    },
+    "b'13013240                        '": {
+        "date": "2010-05-02T20:39:59.999999744",
+        "file": "20100502_prof.nc",
+        "latitude": 39.953,
+        "longitude": 4.369,
+        "profile no": 2,
+        "reference": "b'13013240                        '"
+    },
+    "b'13059402                        '": {
+        "date": "2010-05-04T23:33:00.000000000",
+        "file": "20100504_prof.nc",
+        "latitude": 36.953,
+        "longitude": -0.4270000000000209,
+        "profile no": 0,
+        "reference": "b'13059402                        '"
+    },
+    "b'13059482                        '": {
+        "date": "2010-05-05T06:47:11.000000256",
+        "file": "20100505_prof.nc",
+        "latitude": 41.128,
+        "longitude": 6.728,
+        "profile no": 65,
+        "reference": "b'13059482                        '"
+    },
+    "b'13060580                        '": {
+        "date": "2010-05-06T00:05:00.000000000",
+        "file": "20100506_prof.nc",
+        "latitude": 38.187,
+        "longitude": 4.771,
+        "profile no": 82,
+        "reference": "b'13060580                        '"
+    },
+    "b'13073220                        '": {
+        "date": "2010-05-07T20:22:00.000000000",
+        "file": "20100507_prof.nc",
+        "latitude": 39.943,
+        "longitude": 4.366,
+        "profile no": 6,
+        "reference": "b'13073220                        '"
+    },
+    "b'13073520                        '": {
+        "date": "2010-05-08T00:20:00.000000256",
+        "file": "20100508_prof.nc",
+        "latitude": 41.841,
+        "longitude": 4.022,
+        "profile no": 90,
+        "reference": "b'13073520                        '"
+    },
+    "b'13075020                        '": {
+        "date": "2010-05-09T05:54:18.000000000",
+        "file": "20100509_prof.nc",
+        "latitude": 44.508,
+        "longitude": -5.445,
+        "profile no": 74,
+        "reference": "b'13075020                        '"
+    },
+    "b'13075562                        '": {
+        "date": "2010-05-10T01:20:38.000000000",
+        "file": "20100510_prof.nc",
+        "latitude": 40.784,
+        "longitude": 6.788,
+        "profile no": 96,
+        "reference": "b'13075562                        '"
+    },
+    "b'13089200                        '": {
+        "date": "2010-05-10T09:55:21.999999744",
+        "file": "20100510_prof.nc",
+        "latitude": 44.777,
+        "longitude": -2.876,
+        "profile no": 66,
+        "reference": "b'13089200                        '"
+    },
+    "b'13090481                        '": {
+        "date": "2010-05-11T01:23:00.000000000",
+        "file": "20100511_prof.nc",
+        "latitude": 38.025,
+        "longitude": 4.764,
+        "profile no": 71,
+        "reference": "b'13090481                        '"
+    },
+    "b'13111120                        '": {
+        "date": "2010-05-12T23:10:00.000000000",
+        "file": "20100512_prof.nc",
+        "latitude": 39.839,
+        "longitude": 4.618,
+        "profile no": 2,
+        "reference": "b'13111120                        '"
+    },
+    "b'13127622                        '": {
+        "date": "2010-05-14T23:39:00.000000000",
+        "file": "20100514_prof.nc",
+        "latitude": 36.628,
+        "longitude": -1.01400000000001,
+        "profile no": 0,
+        "reference": "b'13127622                        '"
+    },
+    "b'13127700                        '": {
+        "date": "2010-05-15T05:29:00.000000000",
+        "file": "20100515_prof.nc",
+        "latitude": 40.551,
+        "longitude": 6.897,
+        "profile no": 71,
+        "reference": "b'13127700                        '"
+    },
+    "b'13129060                        '": {
+        "date": "2010-05-16T00:05:00.000000000",
+        "file": "20100516_prof.nc",
+        "latitude": 38.018,
+        "longitude": 4.46,
+        "profile no": 79,
+        "reference": "b'13129060                        '"
+    },
+    "b'13141962                        '": {
+        "date": "2010-05-18T01:34:00.000000256",
+        "file": "20100518_prof.nc",
+        "latitude": 39.793,
+        "longitude": 4.752,
+        "profile no": 94,
+        "reference": "b'13141962                        '"
+    },
+    "b'13163200                        '": {
+        "date": "2010-05-19T02:48:01.000000000",
+        "file": "20100519_prof.nc",
+        "latitude": 43.99,
+        "longitude": -5.655,
+        "profile no": 86,
+        "reference": "b'13163200                        '"
+    },
+    "b'13178000                        '": {
+        "date": "2010-05-20T10:09:33.000000256",
+        "file": "20100520_prof.nc",
+        "latitude": 44.666,
+        "longitude": -2.836,
+        "profile no": 72,
+        "reference": "b'13178000                        '"
+    },
+    "b'13178220                        '": {
+        "date": "2010-05-20T23:59:00.000000000",
+        "file": "20100520_prof.nc",
+        "latitude": 37.953,
+        "longitude": 4.259,
+        "profile no": 0,
+        "reference": "b'13178220                        '"
+    },
+    "b'13180440                        '": {
+        "date": "2010-05-18T00:14:00.000000000",
+        "file": "20100518_prof.nc",
+        "latitude": 41.763,
+        "longitude": 4.577,
+        "profile no": 100,
+        "reference": "b'13180440                        '"
+    },
+    "b'13183342                        '": {
+        "date": "2010-05-23T00:04:00.000000256",
+        "file": "20100523_prof.nc",
+        "latitude": 39.804,
+        "longitude": 4.734,
+        "profile no": 74,
+        "reference": "b'13183342                        '"
+    },
+    "b'13183460                        '": {
+        "date": "2010-05-20T05:54:43.000000000",
+        "file": "20100520_prof.nc",
+        "latitude": 40.345,
+        "longitude": 7.135,
+        "profile no": 89,
+        "reference": "b'13183460                        '"
+    },
+    "b'13187792                        '": {
+        "date": "2010-05-25T01:08:00.000000000",
+        "file": "20100525_prof.nc",
+        "latitude": 36.328,
+        "longitude": -0.7509999999999764,
+        "profile no": 83,
+        "reference": "b'13187792                        '"
+    },
+    "b'13187796                        '": {
+        "date": "2010-05-25T05:55:24.000000000",
+        "file": "20100525_prof.nc",
+        "latitude": 40.537,
+        "longitude": 7.264,
+        "profile no": 63,
+        "reference": "b'13187796                        '"
+    },
+    "b'13201322                        '": {
+        "date": "2010-05-25T23:59:00.000000000",
+        "file": "20100525_prof.nc",
+        "latitude": 37.89,
+        "longitude": 4.082,
+        "profile no": 0,
+        "reference": "b'13201322                        '"
+    },
+    "b'13238060                        '": {
+        "date": "2010-05-28T00:04:00.000000256",
+        "file": "20100528_prof.nc",
+        "latitude": 39.63,
+        "longitude": 4.646,
+        "profile no": 98,
+        "reference": "b'13238060                        '"
+    },
+    "b'13240401                        '": {
+        "date": "2010-05-28T01:44:00.000000000",
+        "file": "20100528_prof.nc",
+        "latitude": 41.315,
+        "longitude": 4.692,
+        "profile no": 90,
+        "reference": "b'13240401                        '"
+    },
+    "b'13244300                        '": {
+        "date": "2010-05-30T10:11:36.000000000",
+        "file": "20100530_prof.nc",
+        "latitude": 44.831,
+        "longitude": -2.796,
+        "profile no": 74,
+        "reference": "b'13244300                        '"
+    },
+    "b'13244580                        '": {
+        "date": "2010-05-30T23:59:00.000000000",
+        "file": "20100530_prof.nc",
+        "latitude": 37.886,
+        "longitude": 4.008,
+        "profile no": 0,
+        "reference": "b'13244580                        '"
+    },
+    "b'13300060                        '": {
+        "date": "2010-06-01T22:40:00.000000000",
+        "file": "20100601_prof.nc",
+        "latitude": 39.55,
+        "longitude": 4.521,
+        "profile no": 1,
+        "reference": "b'13300060                        '"
+    },
+    "b'13300260                        '": {
+        "date": "2010-05-30T06:50:41.000000000",
+        "file": "20100530_prof.nc",
+        "latitude": 40.972,
+        "longitude": 7.382,
+        "profile no": 93,
+        "reference": "b'13300260                        '"
+    },
+    "b'13316660                        '": {
+        "date": "2010-06-03T23:38:00.000000000",
+        "file": "20100603_prof.nc",
+        "latitude": 36.371,
+        "longitude": -0.6000000000000227,
+        "profile no": 0,
+        "reference": "b'13316660                        '"
+    },
+    "b'13316702                        '": {
+        "date": "2010-06-04T05:51:53.999999744",
+        "file": "20100604_prof.nc",
+        "latitude": 41.364,
+        "longitude": 7.048,
+        "profile no": 63,
+        "reference": "b'13316702                        '"
+    },
+    "b'13317904                        '": {
+        "date": "2010-06-05T01:29:00.000000000",
+        "file": "20100605_prof.nc",
+        "latitude": 37.933,
+        "longitude": 3.872,
+        "profile no": 70,
+        "reference": "b'13317904                        '"
+    },
+    "b'13319441                        '": {
+        "date": "2010-06-06T22:40:00.000000000",
+        "file": "20100606_prof.nc",
+        "latitude": 39.569,
+        "longitude": 4.361,
+        "profile no": 3,
+        "reference": "b'13319441                        '"
+    },
+    "b'13320260                        '": {
+        "date": "2010-06-07T00:20:00.000000256",
+        "file": "20100607_prof.nc",
+        "latitude": 41.605,
+        "longitude": 5.034,
+        "profile no": 95,
+        "reference": "b'13320260                        '"
+    },
+    "b'13350282                        '": {
+        "date": "2010-06-08T05:55:59.000000000",
+        "file": "20100608_prof.nc",
+        "latitude": 44.675,
+        "longitude": -5.659,
+        "profile no": 75,
+        "reference": "b'13350282                        '"
+    },
+    "b'13350984                        '": {
+        "date": "2010-06-09T06:51:38.000000000",
+        "file": "20100609_prof.nc",
+        "latitude": 41.497,
+        "longitude": 6.509,
+        "profile no": 85,
+        "reference": "b'13350984                        '"
+    },
+    "b'13350993                        '": {
+        "date": "2010-06-09T11:48:15.000000000",
+        "file": "20100609_prof.nc",
+        "latitude": 44.371,
+        "longitude": -2.667,
+        "profile no": 59,
+        "reference": "b'13350993                        '"
+    },
+    "b'13365763                        '": {
+        "date": "2010-06-11T22:52:00.000000000",
+        "file": "20100611_prof.nc",
+        "latitude": 39.682,
+        "longitude": 4.173,
+        "profile no": 2,
+        "reference": "b'13365763                        '"
+    },
+    "b'13370129                        '": {
+        "date": "2010-06-09T23:59:00.000000000",
+        "file": "20100609_prof.nc",
+        "latitude": 38.01,
+        "longitude": 3.671,
+        "profile no": 0,
+        "reference": "b'13370129                        '"
+    },
+    "b'13387568                        '": {
+        "date": "2010-06-14T05:34:35.000000000",
+        "file": "20100614_prof.nc",
+        "latitude": 41.724,
+        "longitude": 6.163,
+        "profile no": 66,
+        "reference": "b'13387568                        '"
+    },
+    "b'13405283                        '": {
+        "date": "2010-06-15T00:05:00.000000000",
+        "file": "20100615_prof.nc",
+        "latitude": 37.992,
+        "longitude": 3.45,
+        "profile no": 84,
+        "reference": "b'13405283                        '"
+    },
+    "b'13434960                        '": {
+        "date": "2010-06-16T23:04:00.000000000",
+        "file": "20100616_prof.nc",
+        "latitude": 39.675,
+        "longitude": 4.09,
+        "profile no": 2,
+        "reference": "b'13434960                        '"
+    },
+    "b'13436992                        '": {
+        "date": "2010-06-13T23:38:00.000000000",
+        "file": "20100613_prof.nc",
+        "latitude": 36.215,
+        "longitude": -0.5529999999999973,
+        "profile no": 0,
+        "reference": "b'13436992                        '"
+    },
+    "b'13437200                        '": {
+        "date": "2010-06-17T00:20:00.000000256",
+        "file": "20100617_prof.nc",
+        "latitude": 41.681,
+        "longitude": 4.701,
+        "profile no": 107,
+        "reference": "b'13437200                        '"
+    },
+    "b'13453724                        '": {
+        "date": "2010-06-18T03:29:19.000000000",
+        "file": "20100618_prof.nc",
+        "latitude": 45.019,
+        "longitude": -5.055,
+        "profile no": 84,
+        "reference": "b'13453724                        '"
+    },
+    "b'13456396                        '": {
+        "date": "2010-06-19T11:16:13.000000000",
+        "file": "20100619_prof.nc",
+        "latitude": 44.121,
+        "longitude": -2.671,
+        "profile no": 63,
+        "reference": "b'13456396                        '"
+    },
+    "b'13458700                        '": {
+        "date": "2010-06-19T23:59:00.000000000",
+        "file": "20100619_prof.nc",
+        "latitude": 37.896,
+        "longitude": 3.09,
+        "profile no": 0,
+        "reference": "b'13458700                        '"
+    },
+    "b'13475163                        '": {
+        "date": "2010-06-21T22:58:00.000000256",
+        "file": "20100621_prof.nc",
+        "latitude": 39.712,
+        "longitude": 3.943,
+        "profile no": 1,
+        "reference": "b'13475163                        '"
+    },
+    "b'13475210                        '": {
+        "date": "2010-06-19T05:47:12.000000000",
+        "file": "20100619_prof.nc",
+        "latitude": 42.073,
+        "longitude": 6.41,
+        "profile no": 89,
+        "reference": "b'13475210                        '"
+    },
+    "b'13520427                        '": {
+        "date": "2010-06-24T23:59:00.000000000",
+        "file": "20100624_prof.nc",
+        "latitude": 37.71,
+        "longitude": 2.927,
+        "profile no": 0,
+        "reference": "b'13520427                        '"
+    },
+    "b'13524060                        '": {
+        "date": "2010-06-26T22:46:00.000000000",
+        "file": "20100626_prof.nc",
+        "latitude": 39.698,
+        "longitude": 3.899,
+        "profile no": 2,
+        "reference": "b'13524060                        '"
+    },
+    "b'13524128                        '": {
+        "date": "2010-06-24T05:46:25.000000000",
+        "file": "20100624_prof.nc",
+        "latitude": 42.175,
+        "longitude": 6.646,
+        "profile no": 62,
+        "reference": "b'13524128                        '"
+    },
+    "b'13524932                        '": {
+        "date": "2010-06-23T23:38:00.000000000",
+        "file": "20100623_prof.nc",
+        "latitude": 36.144,
+        "longitude": -0.45699999999999363,
+        "profile no": 0,
+        "reference": "b'13524932                        '"
+    },
+    "b'13526569                        '": {
+        "date": "2010-06-27T00:20:00.000000256",
+        "file": "20100627_prof.nc",
+        "latitude": 41.609,
+        "longitude": 4.249,
+        "profile no": 105,
+        "reference": "b'13526569                        '"
+    },
+    "b'13544489                        '": {
+        "date": "2010-06-29T01:43:34.000000000",
+        "file": "20100629_prof.nc",
+        "latitude": 42.331,
+        "longitude": 6.814,
+        "profile no": 109,
+        "reference": "b'13544489                        '"
+    },
+    "b'13575564                        '": {
+        "date": "2010-06-29T11:02:34.000000000",
+        "file": "20100629_prof.nc",
+        "latitude": 44.107,
+        "longitude": -2.632,
+        "profile no": 61,
+        "reference": "b'13575564                        '"
+    },
+    "b'13598627                        '": {
+        "date": "2010-06-30T01:29:00.000000000",
+        "file": "20100630_prof.nc",
+        "latitude": 37.652,
+        "longitude": 2.98,
+        "profile no": 81,
+        "reference": "b'13598627                        '"
+    },
+    "b'13604643                        '": {
+        "date": "2010-07-01T22:41:00.000000000",
+        "file": "20100701_prof.nc",
+        "latitude": 39.603,
+        "longitude": 3.732,
+        "profile no": 0,
+        "reference": "b'13604643                        '"
+    },
+    "b'13630261                        '": {
+        "date": "2010-07-04T05:50:10.000000000",
+        "file": "20100704_prof.nc",
+        "latitude": 42.328,
+        "longitude": 6.92,
+        "profile no": 68,
+        "reference": "b'13630261                        '"
+    },
+    "b'13633422                        '": {
+        "date": "2010-07-04T23:59:00.000000000",
+        "file": "20100704_prof.nc",
+        "latitude": 37.668,
+        "longitude": 2.965,
+        "profile no": 0,
+        "reference": "b'13633422                        '"
+    },
+    "b'13660000                        '": {
+        "date": "2010-07-06T21:23:00.000000000",
+        "file": "20100706_prof.nc",
+        "latitude": 39.596,
+        "longitude": 3.666,
+        "profile no": 6,
+        "reference": "b'13660000                        '"
+    },
+    "b'13660061                        '": {
+        "date": "2010-07-07T00:14:00.000000000",
+        "file": "20100707_prof.nc",
+        "latitude": 41.781,
+        "longitude": 4.284,
+        "profile no": 96,
+        "reference": "b'13660061                        '"
+    },
+    "b'13662440                        '": {
+        "date": "2010-07-03T23:37:00.000000000",
+        "file": "20100703_prof.nc",
+        "latitude": 36.337,
+        "longitude": -0.5299999999999727,
+        "profile no": 1,
+        "reference": "b'13662440                        '"
+    },
+    "b'13689961                        '": {
+        "date": "2010-07-09T06:03:35.000000000",
+        "file": "20100709_prof.nc",
+        "latitude": 42.275,
+        "longitude": 6.992,
+        "profile no": 79,
+        "reference": "b'13689961                        '"
+    },
+    "b'13689981                        '": {
+        "date": "2010-07-09T11:25:01.000000000",
+        "file": "20100709_prof.nc",
+        "latitude": 44.155,
+        "longitude": -2.679,
+        "profile no": 57,
+        "reference": "b'13689981                        '"
+    },
+    "b'13692784                        '": {
+        "date": "2010-07-10T00:05:00.000000000",
+        "file": "20100710_prof.nc",
+        "latitude": 37.75,
+        "longitude": 2.953,
+        "profile no": 84,
+        "reference": "b'13692784                        '"
+    },
+    "b'13696140                        '": {
+        "date": "2010-07-11T21:29:00.000000000",
+        "file": "20100711_prof.nc",
+        "latitude": 39.496,
+        "longitude": 3.596,
+        "profile no": 1,
+        "reference": "b'13696140                        '"
+    },
+    "b'13738731                        '": {
+        "date": "2010-07-14T01:07:00.000000000",
+        "file": "20100714_prof.nc",
+        "latitude": 36.888,
+        "longitude": -0.6469999999999914,
+        "profile no": 96,
+        "reference": "b'13738731                        '"
+    },
+    "b'13738735                        '": {
+        "date": "2010-07-14T07:04:14.000000000",
+        "file": "20100714_prof.nc",
+        "latitude": 42.288,
+        "longitude": 6.827,
+        "profile no": 76,
+        "reference": "b'13738735                        '"
+    },
+    "b'13759060                        '": {
+        "date": "2010-07-16T21:11:00.000000000",
+        "file": "20100716_prof.nc",
+        "latitude": 39.386,
+        "longitude": 3.468,
+        "profile no": 4,
+        "reference": "b'13759060                        '"
+    },
+    "b'13761682                        '": {
+        "date": "2010-07-17T01:44:00.000000000",
+        "file": "20100717_prof.nc",
+        "latitude": 41.364,
+        "longitude": 4.274,
+        "profile no": 92,
+        "reference": "b'13761682                        '"
+    },
+    "b'13764540                        '": {
+        "date": "2010-07-14T23:59:00.000000000",
+        "file": "20100714_prof.nc",
+        "latitude": 37.78,
+        "longitude": 2.697,
+        "profile no": 0,
+        "reference": "b'13764540                        '"
+    },
+    "b'13781840                        '": {
+        "date": "2010-07-19T11:20:50.000000000",
+        "file": "20100719_prof.nc",
+        "latitude": 44.264,
+        "longitude": -2.43,
+        "profile no": 59,
+        "reference": "b'13781840                        '"
+    },
+    "b'13784401                        '": {
+        "date": "2010-07-19T23:59:00.000000000",
+        "file": "20100719_prof.nc",
+        "latitude": 37.637,
+        "longitude": 2.641,
+        "profile no": 0,
+        "reference": "b'13784401                        '"
+    },
+    "b'13808060                        '": {
+        "date": "2010-07-21T20:29:00.000000000",
+        "file": "20100721_prof.nc",
+        "latitude": 39.374,
+        "longitude": 3.454,
+        "profile no": 4,
+        "reference": "b'13808060                        '"
+    },
+    "b'13835682                        '": {
+        "date": "2010-07-25T01:29:00.000000000",
+        "file": "20100725_prof.nc",
+        "latitude": 37.591,
+        "longitude": 2.794,
+        "profile no": 69,
+        "reference": "b'13835682                        '"
+    },
+    "b'13854241                        '": {
+        "date": "2010-07-26T21:29:00.000000000",
+        "file": "20100726_prof.nc",
+        "latitude": 39.344,
+        "longitude": 3.418,
+        "profile no": 7,
+        "reference": "b'13854241                        '"
+    },
+    "b'13856717                        '": {
+        "date": "2010-07-23T23:31:00.000000000",
+        "file": "20100723_prof.nc",
+        "latitude": 36.608,
+        "longitude": -0.97199999999998,
+        "profile no": 0,
+        "reference": "b'13856717                        '"
+    },
+    "b'13899360                        '": {
+        "date": "2010-07-29T11:17:24.000000000",
+        "file": "20100729_prof.nc",
+        "latitude": 44.198,
+        "longitude": -2.641,
+        "profile no": 65,
+        "reference": "b'13899360                        '"
+    },
+    "b'13901881                        '": {
+        "date": "2010-07-27T00:20:00.000000256",
+        "file": "20100727_prof.nc",
+        "latitude": 41.374,
+        "longitude": 4.799,
+        "profile no": 96,
+        "reference": "b'13901881                        '"
+    },
+    "b'13902171                        '": {
+        "date": "2010-07-29T23:59:00.000000000",
+        "file": "20100729_prof.nc",
+        "latitude": 37.591,
+        "longitude": 2.868,
+        "profile no": 0,
+        "reference": "b'13902171                        '"
+    },
+    "b'13905720                        '": {
+        "date": "2010-07-31T20:35:00.000000256",
+        "file": "20100731_prof.nc",
+        "latitude": 39.368,
+        "longitude": 3.403,
+        "profile no": 1,
+        "reference": "b'13905720                        '"
+    },
+    "b'13907020                        '": {
+        "date": "2010-07-29T07:04:26.000000000",
+        "file": "20100729_prof.nc",
+        "latitude": 42.709,
+        "longitude": 6.298,
+        "profile no": 94,
+        "reference": "b'13907020                        '"
+    },
+    "b'13909220                        '": {
+        "date": "2010-08-02T23:43:00.000000256",
+        "file": "20100802_prof.nc",
+        "latitude": 36.33,
+        "longitude": -0.7280000000000086,
+        "profile no": 1,
+        "reference": "b'13909220                        '"
+    },
+    "b'13959963                        '": {
+        "date": "2010-08-03T23:59:00.000000000",
+        "file": "20100803_prof.nc",
+        "latitude": 37.62,
+        "longitude": 3.173,
+        "profile no": 0,
+        "reference": "b'13959963                        '"
+    },
+    "b'13963461                        '": {
+        "date": "2010-08-05T20:29:00.000000000",
+        "file": "20100805_prof.nc",
+        "latitude": 39.398,
+        "longitude": 3.392,
+        "profile no": 7,
+        "reference": "b'13963461                        '"
+    },
+    "b'13963951                        '": {
+        "date": "2010-08-03T05:52:51.000000000",
+        "file": "20100803_prof.nc",
+        "latitude": 42.735,
+        "longitude": 5.904,
+        "profile no": 68,
+        "reference": "b'13963951                        '"
+    },
+    "b'13972980                        '": {
+        "date": "2010-08-08T06:51:04.000000000",
+        "file": "20100808_prof.nc",
+        "latitude": 42.504,
+        "longitude": 5.509,
+        "profile no": 80,
+        "reference": "b'13972980                        '"
+    },
+    "b'13973060                        '": {
+        "date": "2010-08-08T11:21:47.000000000",
+        "file": "20100808_prof.nc",
+        "latitude": 44.24,
+        "longitude": -2.584,
+        "profile no": 56,
+        "reference": "b'13973060                        '"
+    },
+    "b'13976060                        '": {
+        "date": "2010-08-06T00:20:00.000000256",
+        "file": "20100806_prof.nc",
+        "latitude": 41.506,
+        "longitude": 4.826,
+        "profile no": 102,
+        "reference": "b'13976060                        '"
+    },
+    "b'13990624                        '": {
+        "date": "2010-08-08T23:59:00.000000000",
+        "file": "20100808_prof.nc",
+        "latitude": 37.682,
+        "longitude": 3.248,
+        "profile no": 0,
+        "reference": "b'13990624                        '"
+    },
+    "b'14014270                        '": {
+        "date": "2010-08-10T20:29:00.000000000",
+        "file": "20100810_prof.nc",
+        "latitude": 39.424,
+        "longitude": 3.347,
+        "profile no": 2,
+        "reference": "b'14014270                        '"
+    },
+    "b'14037402                        '": {
+        "date": "2010-08-12T23:49:00.000000000",
+        "file": "20100812_prof.nc",
+        "latitude": 36.579,
+        "longitude": -0.22699999999997544,
+        "profile no": 0,
+        "reference": "b'14037402                        '"
+    },
+    "b'14037521                        '": {
+        "date": "2010-08-13T05:55:35.000000000",
+        "file": "20100813_prof.nc",
+        "latitude": 42.126,
+        "longitude": 5.262,
+        "profile no": 73,
+        "reference": "b'14037521                        '"
+    },
+    "b'14043342                        '": {
+        "date": "2010-08-15T20:23:00.000000000",
+        "file": "20100815_prof.nc",
+        "latitude": 39.48,
+        "longitude": 3.381,
+        "profile no": 5,
+        "reference": "b'14043342                        '"
+    },
+    "b'14045521                        '": {
+        "date": "2010-08-16T00:20:00.000000256",
+        "file": "20100816_prof.nc",
+        "latitude": 41.067,
+        "longitude": 5.38,
+        "profile no": 96,
+        "reference": "b'14045521                        '"
+    },
+    "b'14058084                        '": {
+        "date": "2010-08-13T23:59:00.000000000",
+        "file": "20100813_prof.nc",
+        "latitude": 37.747,
+        "longitude": 3.461,
+        "profile no": 0,
+        "reference": "b'14058084                        '"
+    },
+    "b'14058085                        '": {
+        "date": "2010-08-09T10:20:00.000000000",
+        "file": "20100809_prof.nc",
+        "latitude": 38.954,
+        "longitude": 9.553,
+        "profile no": 46,
+        "reference": "b'14058085                        '"
+    },
+    "b'14058086                        '": {
+        "date": "2010-08-13T22:40:00.000000000",
+        "file": "20100813_prof.nc",
+        "latitude": 38.973,
+        "longitude": 9.541,
+        "profile no": 4,
+        "reference": "b'14058086                        '"
+    },
+    "b'14080600                        '": {
+        "date": "2010-08-18T01:59:32.999999744",
+        "file": "20100818_prof.nc",
+        "latitude": 42.214,
+        "longitude": 4.912,
+        "profile no": 104,
+        "reference": "b'14080600                        '"
+    },
+    "b'14080941                        '": {
+        "date": "2010-08-18T11:09:40.000000000",
+        "file": "20100818_prof.nc",
+        "latitude": 44.2,
+        "longitude": -2.499,
+        "profile no": 64,
+        "reference": "b'14080941                        '"
+    },
+    "b'14083381                        '": {
+        "date": "2010-08-14T10:08:00.000000000",
+        "file": "20100814_prof.nc",
+        "latitude": 38.946,
+        "longitude": 9.428,
+        "profile no": 52,
+        "reference": "b'14083381                        '"
+    },
+    "b'14083382                        '": {
+        "date": "2010-08-18T22:34:00.000000256",
+        "file": "20100818_prof.nc",
+        "latitude": 38.96,
+        "longitude": 9.451,
+        "profile no": 4,
+        "reference": "b'14083382                        '"
+    },
+    "b'14083503                        '": {
+        "date": "2010-08-19T01:23:00.000000000",
+        "file": "20100819_prof.nc",
+        "latitude": 37.708,
+        "longitude": 3.664,
+        "profile no": 87,
+        "reference": "b'14083503                        '"
+    },
+    "b'14098097                        '": {
+        "date": "2010-08-20T20:29:00.000000000",
+        "file": "20100820_prof.nc",
+        "latitude": 39.473,
+        "longitude": 3.383,
+        "profile no": 2,
+        "reference": "b'14098097                        '"
+    },
+    "b'14105322                        '": {
+        "date": "2010-08-22T23:36:00.000000000",
+        "file": "20100822_prof.nc",
+        "latitude": 36.987,
+        "longitude": -0.47699999999997544,
+        "profile no": 0,
+        "reference": "b'14105322                        '"
+    },
+    "b'14105700                        '": {
+        "date": "2010-08-23T06:20:42.000000000",
+        "file": "20100823_prof.nc",
+        "latitude": 42.037,
+        "longitude": 5.339,
+        "profile no": 66,
+        "reference": "b'14105700                        '"
+    },
+    "b'14105922                        '": {
+        "date": "2010-08-24T00:05:00.000000000",
+        "file": "20100824_prof.nc",
+        "latitude": 37.642,
+        "longitude": 3.824,
+        "profile no": 72,
+        "reference": "b'14105922                        '"
+    },
+    "b'14106084                        '": {
+        "date": "2010-08-19T09:32:00.000000000",
+        "file": "20100819_prof.nc",
+        "latitude": 38.956,
+        "longitude": 9.369,
+        "profile no": 59,
+        "reference": "b'14106084                        '"
+    },
+    "b'14106085                        '": {
+        "date": "2010-08-23T22:16:00.000000000",
+        "file": "20100823_prof.nc",
+        "latitude": 39.008,
+        "longitude": 9.452,
+        "profile no": 4,
+        "reference": "b'14106085                        '"
+    },
+    "b'14127561                        '": {
+        "date": "2010-08-25T20:29:00.000000000",
+        "file": "20100825_prof.nc",
+        "latitude": 39.497,
+        "longitude": 3.396,
+        "profile no": 6,
+        "reference": "b'14127561                        '"
+    },
+    "b'14141703                        '": {
+        "date": "2010-08-26T00:20:00.000000256",
+        "file": "20100826_prof.nc",
+        "latitude": 40.945,
+        "longitude": 5.937,
+        "profile no": 100,
+        "reference": "b'14141703                        '"
+    },
+    "b'14150102                        '": {
+        "date": "2010-08-28T11:13:07.000000000",
+        "file": "20100828_prof.nc",
+        "latitude": 44.163,
+        "longitude": -2.347,
+        "profile no": 63,
+        "reference": "b'14150102                        '"
+    },
+    "b'14152564                        '": {
+        "date": "2010-08-28T23:53:00.000000000",
+        "file": "20100828_prof.nc",
+        "latitude": 37.564,
+        "longitude": 4.071,
+        "profile no": 0,
+        "reference": "b'14152564                        '"
+    },
+    "b'14167121                        '": {
+        "date": "2010-08-30T20:29:00.000000000",
+        "file": "20100830_prof.nc",
+        "latitude": 39.523,
+        "longitude": 3.441,
+        "profile no": 5,
+        "reference": "b'14167121                        '"
+    },
+    "b'14167345                        '": {
+        "date": "2010-08-28T07:01:01.000000000",
+        "file": "20100828_prof.nc",
+        "latitude": 41.84,
+        "longitude": 5.474,
+        "profile no": 87,
+        "reference": "b'14167345                        '"
+    },
+    "b'14189420                        '": {
+        "date": "2010-08-24T09:14:00.000000000",
+        "file": "20100824_prof.nc",
+        "latitude": 38.947,
+        "longitude": 9.44,
+        "profile no": 49,
+        "reference": "b'14189420                        '"
+    },
+    "b'14189421                        '": {
+        "date": "2010-08-28T22:09:59.999999744",
+        "file": "20100828_prof.nc",
+        "latitude": 38.963,
+        "longitude": 9.432,
+        "profile no": 6,
+        "reference": "b'14189421                        '"
+    },
+    "b'14194180                        '": {
+        "date": "2010-09-02T01:17:59.999999744",
+        "file": "20100902_prof.nc",
+        "latitude": 36.9,
+        "longitude": -0.9420000000000073,
+        "profile no": 85,
+        "reference": "b'14194180                        '"
+    },
+    "b'14207348                        '": {
+        "date": "2010-09-02T05:59:57.999999744",
+        "file": "20100902_prof.nc",
+        "latitude": 41.87,
+        "longitude": 5.287,
+        "profile no": 67,
+        "reference": "b'14207348                        '"
+    },
+    "b'14207881                        '": {
+        "date": "2010-09-03T00:05:00.000000000",
+        "file": "20100903_prof.nc",
+        "latitude": 37.43,
+        "longitude": 4.35,
+        "profile no": 79,
+        "reference": "b'14207881                        '"
+    },
+    "b'14213237                        '": {
+        "date": "2010-09-04T20:29:00.000000000",
+        "file": "20100904_prof.nc",
+        "latitude": 39.461,
+        "longitude": 3.41,
+        "profile no": 9,
+        "reference": "b'14213237                        '"
+    },
+    "b'14217800                        '": {
+        "date": "2010-08-29T09:14:00.000000000",
+        "file": "20100829_prof.nc",
+        "latitude": 38.861,
+        "longitude": 9.425,
+        "profile no": 53,
+        "reference": "b'14217800                        '"
+    },
+    "b'14217801                        '": {
+        "date": "2010-09-02T22:40:00.000000000",
+        "file": "20100902_prof.nc",
+        "latitude": 38.8,
+        "longitude": 9.357,
+        "profile no": 2,
+        "reference": "b'14217801                        '"
+    },
+    "b'14232121                        '": {
+        "date": "2010-09-07T11:32:11.999999744",
+        "file": "20100907_prof.nc",
+        "latitude": 44.279,
+        "longitude": -2.474,
+        "profile no": 51,
+        "reference": "b'14232121                        '"
+    },
+    "b'14234360                        '": {
+        "date": "2010-09-05T01:56:00.000000000",
+        "file": "20100905_prof.nc",
+        "latitude": 41.243,
+        "longitude": 5.877,
+        "profile no": 86,
+        "reference": "b'14234360                        '"
+    },
+    "b'14246009                        '": {
+        "date": "2010-09-07T23:59:00.000000000",
+        "file": "20100907_prof.nc",
+        "latitude": 37.28,
+        "longitude": 4.718,
+        "profile no": 0,
+        "reference": "b'14246009                        '"
+    },
+    "b'14269560                        '": {
+        "date": "2010-09-09T20:30:00.000000000",
+        "file": "20100909_prof.nc",
+        "latitude": 39.447,
+        "longitude": 3.473,
+        "profile no": 6,
+        "reference": "b'14269560                        '"
+    },
+    "b'14270400                        '": {
+        "date": "2010-09-07T06:36:26.000000000",
+        "file": "20100907_prof.nc",
+        "latitude": 42.011,
+        "longitude": 4.948,
+        "profile no": 79,
+        "reference": "b'14270400                        '"
+    },
+    "b'14274784                        '": {
+        "date": "2010-09-03T10:14:00.000000000",
+        "file": "20100903_prof.nc",
+        "latitude": 38.762,
+        "longitude": 9.221,
+        "profile no": 52,
+        "reference": "b'14274784                        '"
+    },
+    "b'14274791                        '": {
+        "date": "2010-09-07T22:46:00.000000000",
+        "file": "20100907_prof.nc",
+        "latitude": 38.705,
+        "longitude": 9.166,
+        "profile no": 9,
+        "reference": "b'14274791                        '"
+    },
+    "b'14278120                        '": {
+        "date": "2010-09-12T06:54:42.999999744",
+        "file": "20100912_prof.nc",
+        "latitude": 41.915,
+        "longitude": 5.391,
+        "profile no": 72,
+        "reference": "b'14278120                        '"
+    },
+    "b'14280701                        '": {
+        "date": "2010-09-13T01:23:00.000000000",
+        "file": "20100913_prof.nc",
+        "latitude": 37.18,
+        "longitude": 4.98,
+        "profile no": 71,
+        "reference": "b'14280701                        '"
+    },
+    "b'14316820                        '": {
+        "date": "2010-09-14T20:30:00.000000000",
+        "file": "20100914_prof.nc",
+        "latitude": 39.496,
+        "longitude": 3.495,
+        "profile no": 6,
+        "reference": "b'14316820                        '"
+    },
+    "b'14317380                        '": {
+        "date": "2010-09-11T23:36:00.000000000",
+        "file": "20100911_prof.nc",
+        "latitude": 36.735,
+        "longitude": -1.2300000000000182,
+        "profile no": 0,
+        "reference": "b'14317380                        '"
+    },
+    "b'14322040                        '": {
+        "date": "2010-09-08T09:50:00.000000000",
+        "file": "20100908_prof.nc",
+        "latitude": 38.705,
+        "longitude": 9.144,
+        "profile no": 54,
+        "reference": "b'14322040                        '"
+    },
+    "b'14322041                        '": {
+        "date": "2010-09-12T21:52:00.000000000",
+        "file": "20100912_prof.nc",
+        "latitude": 38.597,
+        "longitude": 8.905,
+        "profile no": 8,
+        "reference": "b'14322041                        '"
+    },
+    "b'14337740                        '": {
+        "date": "2010-09-17T12:16:26.000000000",
+        "file": "20100917_prof.nc",
+        "latitude": 44.395,
+        "longitude": -2.43,
+        "profile no": 32,
+        "reference": "b'14337740                        '"
+    },
+    "b'14338208                        '": {
+        "date": "2010-09-15T00:20:00.000000256",
+        "file": "20100915_prof.nc",
+        "latitude": 41.333,
+        "longitude": 5.591,
+        "profile no": 98,
+        "reference": "b'14338208                        '"
+    },
+    "b'14340060                        '": {
+        "date": "2010-09-13T07:56:00.000000000",
+        "file": "20100913_prof.nc",
+        "latitude": 38.537,
+        "longitude": 8.865,
+        "profile no": 56,
+        "reference": "b'14340060                        '"
+    },
+    "b'14340061                        '": {
+        "date": "2010-09-17T22:34:00.000000256",
+        "file": "20100917_prof.nc",
+        "latitude": 38.525,
+        "longitude": 8.79,
+        "profile no": 3,
+        "reference": "b'14340061                        '"
+    },
+    "b'14340201                        '": {
+        "date": "2010-09-17T23:53:00.000000000",
+        "file": "20100917_prof.nc",
+        "latitude": 37.171,
+        "longitude": 5.127,
+        "profile no": 0,
+        "reference": "b'14340201                        '"
+    },
+    "b'14343446                        '": {
+        "date": "2010-09-19T20:30:00.000000000",
+        "file": "20100919_prof.nc",
+        "latitude": 39.4,
+        "longitude": 3.527,
+        "profile no": 4,
+        "reference": "b'14343446                        '"
+    },
+    "b'14345360                        '": {
+        "date": "2010-09-17T05:51:52.000000000",
+        "file": "20100917_prof.nc",
+        "latitude": 41.711,
+        "longitude": 5.234,
+        "profile no": 75,
+        "reference": "b'14345360                        '"
+    },
+    "b'14381640                        '": {
+        "date": "2010-09-22T06:53:21.000000000",
+        "file": "20100922_prof.nc",
+        "latitude": 41.883,
+        "longitude": 5.343,
+        "profile no": 70,
+        "reference": "b'14381640                        '"
+    },
+    "b'14384483                        '": {
+        "date": "2010-09-22T23:59:00.000000000",
+        "file": "20100922_prof.nc",
+        "latitude": 37.139,
+        "longitude": 5.312,
+        "profile no": 0,
+        "reference": "b'14384483                        '"
+    },
+    "b'14384484                        '": {
+        "date": "2010-09-18T10:08:00.000000000",
+        "file": "20100918_prof.nc",
+        "latitude": 38.51,
+        "longitude": 8.804,
+        "profile no": 51,
+        "reference": "b'14384484                        '"
+    },
+    "b'14384485                        '": {
+        "date": "2010-09-22T22:16:00.000000000",
+        "file": "20100922_prof.nc",
+        "latitude": 38.482,
+        "longitude": 8.726,
+        "profile no": 5,
+        "reference": "b'14384485                        '"
+    },
+    "b'14401501                        '": {
+        "date": "2010-09-24T21:36:00.000000000",
+        "file": "20100924_prof.nc",
+        "latitude": 39.351,
+        "longitude": 3.44,
+        "profile no": 5,
+        "reference": "b'14401501                        '"
+    },
+    "b'14403100                        '": {
+        "date": "2010-09-21T23:36:00.000000000",
+        "file": "20100921_prof.nc",
+        "latitude": 36.703,
+        "longitude": -1.4379999999999882,
+        "profile no": 0,
+        "reference": "b'14403100                        '"
+    },
+    "b'14420267                        '": {
+        "date": "2010-09-27T11:01:57.000000000",
+        "file": "20100927_prof.nc",
+        "latitude": 44.485,
+        "longitude": -2.218,
+        "profile no": 61,
+        "reference": "b'14420267                        '"
+    },
+    "b'14422981                        '": {
+        "date": "2010-09-27T23:59:00.000000000",
+        "file": "20100927_prof.nc",
+        "latitude": 37.114,
+        "longitude": 5.434,
+        "profile no": 0,
+        "reference": "b'14422981                        '"
+    },
+    "b'14446390                        '": {
+        "date": "2010-09-27T05:42:04.000000000",
+        "file": "20100927_prof.nc",
+        "latitude": 41.844,
+        "longitude": 5.096,
+        "profile no": 86,
+        "reference": "b'14446390                        '"
+    },
+    "b'14469281                        '": {
+        "date": "2010-09-29T21:48:00.000000000",
+        "file": "20100929_prof.nc",
+        "latitude": 39.29,
+        "longitude": 3.397,
+        "profile no": 5,
+        "reference": "b'14469281                        '"
+    },
+    "b'14472261                        '": {
+        "date": "2010-09-23T09:44:00.000000000",
+        "file": "20100923_prof.nc",
+        "latitude": 38.446,
+        "longitude": 8.687,
+        "profile no": 53,
+        "reference": "b'14472261                        '"
+    },
+    "b'14472262                        '": {
+        "date": "2010-09-27T21:46:00.000000000",
+        "file": "20100927_prof.nc",
+        "latitude": 38.409,
+        "longitude": 8.571,
+        "profile no": 7,
+        "reference": "b'14472262                        '"
+    },
+    "b'14478625                        '": {
+        "date": "2010-09-28T08:14:00.000000000",
+        "file": "20100928_prof.nc",
+        "latitude": 38.341,
+        "longitude": 8.541,
+        "profile no": 59,
+        "reference": "b'14478625                        '"
+    },
+    "b'25381229                        '": {
+        "date": "2010-01-04T10:50:18.999999744",
+        "file": "20100104_prof.nc",
+        "latitude": 39.711800000000004,
+        "longitude": 1.9605000000000001,
+        "profile no": 48,
+        "reference": "b'25381229                        '"
+    },
+    "b'25381230                        '": {
+        "date": "2010-01-04T11:39:00.000000000",
+        "file": "20100104_prof.nc",
+        "latitude": 39.711800000000004,
+        "longitude": 1.9605000000000001,
+        "profile no": 38,
+        "reference": "b'25381230                        '"
+    },
+    "b'25381231                        '": {
+        "date": "2010-01-09T10:48:53.000000000",
+        "file": "20100109_prof.nc",
+        "latitude": 39.7372,
+        "longitude": 1.7151,
+        "profile no": 62,
+        "reference": "b'25381231                        '"
+    },
+    "b'25381232                        '": {
+        "date": "2010-01-09T11:41:48.000000000",
+        "file": "20100109_prof.nc",
+        "latitude": 39.7372,
+        "longitude": 1.7151,
+        "profile no": 52,
+        "reference": "b'25381232                        '"
+    },
+    "b'25381233                        '": {
+        "date": "2010-01-14T10:48:06.000000000",
+        "file": "20100114_prof.nc",
+        "latitude": 39.9442,
+        "longitude": 1.5887,
+        "profile no": 44,
+        "reference": "b'25381233                        '"
+    },
+    "b'25381234                        '": {
+        "date": "2010-01-14T11:42:39.000000000",
+        "file": "20100114_prof.nc",
+        "latitude": 39.9442,
+        "longitude": 1.5887,
+        "profile no": 39,
+        "reference": "b'25381234                        '"
+    },
+    "b'25381235                        '": {
+        "date": "2010-01-19T11:40:59.000000256",
+        "file": "20100119_prof.nc",
+        "latitude": 39.871,
+        "longitude": 1.7506000000000002,
+        "profile no": 58,
+        "reference": "b'25381235                        '"
+    },
+    "b'25381236                        '": {
+        "date": "2010-01-19T12:29:43.000000000",
+        "file": "20100119_prof.nc",
+        "latitude": 39.871,
+        "longitude": 1.7506000000000002,
+        "profile no": 37,
+        "reference": "b'25381236                        '"
+    },
+    "b'25381237                        '": {
+        "date": "2010-01-24T10:44:23.000000000",
+        "file": "20100124_prof.nc",
+        "latitude": 40.008,
+        "longitude": 1.9204,
+        "profile no": 42,
+        "reference": "b'25381237                        '"
+    },
+    "b'25381238                        '": {
+        "date": "2010-01-24T11:35:40.000000000",
+        "file": "20100124_prof.nc",
+        "latitude": 40.008,
+        "longitude": 1.9204,
+        "profile no": 35,
+        "reference": "b'25381238                        '"
+    },
+    "b'25381239                        '": {
+        "date": "2010-01-29T10:41:35.000000000",
+        "file": "20100129_prof.nc",
+        "latitude": 40.0041,
+        "longitude": 2.0615,
+        "profile no": 63,
+        "reference": "b'25381239                        '"
+    },
+    "b'25381240                        '": {
+        "date": "2010-01-29T11:32:27.000000000",
+        "file": "20100129_prof.nc",
+        "latitude": 40.0041,
+        "longitude": 2.0615,
+        "profile no": 50,
+        "reference": "b'25381240                        '"
+    },
+    "b'25381241                        '": {
+        "date": "2010-02-03T10:42:40.000000000",
+        "file": "20100203_prof.nc",
+        "latitude": 39.9909,
+        "longitude": 2.2981000000000003,
+        "profile no": 52,
+        "reference": "b'25381241                        '"
+    },
+    "b'25381242                        '": {
+        "date": "2010-02-03T11:33:02.000000000",
+        "file": "20100203_prof.nc",
+        "latitude": 39.9909,
+        "longitude": 2.2981000000000003,
+        "profile no": 42,
+        "reference": "b'25381242                        '"
+    },
+    "b'25381243                        '": {
+        "date": "2010-02-08T10:50:13.000000000",
+        "file": "20100208_prof.nc",
+        "latitude": 39.938500000000005,
+        "longitude": 2.5374000000000003,
+        "profile no": 61,
+        "reference": "b'25381243                        '"
+    },
+    "b'25381244                        '": {
+        "date": "2010-02-08T11:41:10.000000000",
+        "file": "20100208_prof.nc",
+        "latitude": 39.938500000000005,
+        "longitude": 2.5374000000000003,
+        "profile no": 46,
+        "reference": "b'25381244                        '"
+    },
+    "b'25381245                        '": {
+        "date": "2010-02-13T10:54:15.000000000",
+        "file": "20100213_prof.nc",
+        "latitude": 39.979400000000005,
+        "longitude": 2.7105,
+        "profile no": 46,
+        "reference": "b'25381245                        '"
+    },
+    "b'25381246                        '": {
+        "date": "2010-02-13T11:43:13.000000000",
+        "file": "20100213_prof.nc",
+        "latitude": 39.979400000000005,
+        "longitude": 2.7105,
+        "profile no": 44,
+        "reference": "b'25381246                        '"
+    },
+    "b'25381247                        '": {
+        "date": "2010-02-18T14:00:17.000000000",
+        "file": "20100218_prof.nc",
+        "latitude": 40.011900000000004,
+        "longitude": 2.9327,
+        "profile no": 27,
+        "reference": "b'25381247                        '"
+    },
+    "b'25381248                        '": {
+        "date": "2010-02-18T14:51:38.000000000",
+        "file": "20100218_prof.nc",
+        "latitude": 40.011900000000004,
+        "longitude": 2.9327,
+        "profile no": 24,
+        "reference": "b'25381248                        '"
+    },
+    "b'25381249                        '": {
+        "date": "2010-02-23T12:52:41.999999744",
+        "file": "20100223_prof.nc",
+        "latitude": 40.008900000000004,
+        "longitude": 2.9642,
+        "profile no": 25,
+        "reference": "b'25381249                        '"
+    },
+    "b'25381250                        '": {
+        "date": "2010-02-23T13:46:17.000000000",
+        "file": "20100223_prof.nc",
+        "latitude": 40.008900000000004,
+        "longitude": 2.9642,
+        "profile no": 18,
+        "reference": "b'25381250                        '"
+    },
+    "b'25381251                        '": {
+        "date": "2010-02-28T10:58:45.000000000",
+        "file": "20100228_prof.nc",
+        "latitude": 40.0398,
+        "longitude": 2.9744,
+        "profile no": 59,
+        "reference": "b'25381251                        '"
+    },
+    "b'25381252                        '": {
+        "date": "2010-02-28T11:49:13.000000000",
+        "file": "20100228_prof.nc",
+        "latitude": 40.0398,
+        "longitude": 2.9744,
+        "profile no": 42,
+        "reference": "b'25381252                        '"
+    },
+    "b'25381253                        '": {
+        "date": "2010-03-03T10:49:19.000000000",
+        "file": "20100303_prof.nc",
+        "latitude": 40.054,
+        "longitude": 3.0973,
+        "profile no": 41,
+        "reference": "b'25381253                        '"
+    },
+    "b'25381254                        '": {
+        "date": "2010-03-03T11:43:00.000000256",
+        "file": "20100303_prof.nc",
+        "latitude": 40.054,
+        "longitude": 3.0973,
+        "profile no": 38,
+        "reference": "b'25381254                        '"
+    },
+    "b'25381255                        '": {
+        "date": "2010-03-08T10:35:05.999999744",
+        "file": "20100308_prof.nc",
+        "latitude": 40.2033,
+        "longitude": 3.3839,
+        "profile no": 63,
+        "reference": "b'25381255                        '"
+    },
+    "b'25381256                        '": {
+        "date": "2010-03-08T11:33:37.000000000",
+        "file": "20100308_prof.nc",
+        "latitude": 40.2033,
+        "longitude": 3.3839,
+        "profile no": 52,
+        "reference": "b'25381256                        '"
+    },
+    "b'25381257                        '": {
+        "date": "2010-03-10T10:49:14.000000000",
+        "file": "20100310_prof.nc",
+        "latitude": 40.226800000000004,
+        "longitude": 3.4610000000000003,
+        "profile no": 58,
+        "reference": "b'25381257                        '"
+    },
+    "b'25381258                        '": {
+        "date": "2010-03-10T11:41:54.000000000",
+        "file": "20100310_prof.nc",
+        "latitude": 40.226800000000004,
+        "longitude": 3.4610000000000003,
+        "profile no": 49,
+        "reference": "b'25381258                        '"
+    },
+    "b'25381259                        '": {
+        "date": "2010-03-12T10:43:28.000000000",
+        "file": "20100312_prof.nc",
+        "latitude": 40.254000000000005,
+        "longitude": 3.4554,
+        "profile no": 48,
+        "reference": "b'25381259                        '"
+    },
+    "b'25381260                        '": {
+        "date": "2010-03-12T11:36:19.000000000",
+        "file": "20100312_prof.nc",
+        "latitude": 40.254000000000005,
+        "longitude": 3.4554,
+        "profile no": 42,
+        "reference": "b'25381260                        '"
+    },
+    "b'25381261                        '": {
+        "date": "2010-03-14T10:42:17.000000000",
+        "file": "20100314_prof.nc",
+        "latitude": 40.2404,
+        "longitude": 3.4421000000000004,
+        "profile no": 48,
+        "reference": "b'25381261                        '"
+    },
+    "b'25381262                        '": {
+        "date": "2010-03-14T11:31:04.000000000",
+        "file": "20100314_prof.nc",
+        "latitude": 40.2404,
+        "longitude": 3.4421000000000004,
+        "profile no": 36,
+        "reference": "b'25381262                        '"
+    },
+    "b'25381263                        '": {
+        "date": "2010-03-16T15:26:21.999999744",
+        "file": "20100316_prof.nc",
+        "latitude": 40.2366,
+        "longitude": 3.5130000000000003,
+        "profile no": 18,
+        "reference": "b'25381263                        '"
+    }
+}

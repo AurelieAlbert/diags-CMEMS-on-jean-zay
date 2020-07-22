@@ -1,0 +1,7 @@
+ #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ #  Output of "ij_from_lon_lat.x" / nearest-point location
+ #   => based on horizontal coordinates found into "/gpfsstore/rech/egi/commun/MEDWEST60/MEDWEST60-I/MEDWEST60_mesh_hgr.nc4"
+ #
+ #      Name        ji    jj    Long(ji,jj)  Lat(ji,jj)  (Input long.  Input lat.)
+ #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+        test_MED   601   356     4.475152    39.435780     4.480000    39.430000
