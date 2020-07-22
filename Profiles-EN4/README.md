@@ -23,5 +23,6 @@
     ```
     - in /gpfswork/rech/egi/rote001/git/sosie : ``` ln -sf macro/make.macro_ifort_JEAN-ZAY make.macro; make```
   - test ij_from_lon_lat.x with dummy point in MED 
-    - script : test_coloc_sosie.ksh 
-    - input : test_coloc.txt (no blank line !) and file /gpfsstore/rech/egi/commun/MEDWEST60/
+    - script : [test_coloc_sosie.ksh](https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/test_coloc_sosie.ksh)
+    - input : [test_coloc.txt]( https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/test_coloc.txt) (no blank line !) and file /gpfsstore/rech/egi/commun/MEDWEST60/
+    - output : [ij_found.out](https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/ij_found.out)
