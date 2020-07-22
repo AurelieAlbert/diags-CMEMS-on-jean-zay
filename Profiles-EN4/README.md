@@ -22,6 +22,6 @@
        module load netcdf-cxx4/4.3.1-mpi
     ```
     - in /gpfswork/rech/egi/rote001/git/sosie : ``` ln -sf macro/make.macro_ifort_JEAN-ZAY make.macro; make```
-
-
-I
+  - test ij_from_lon_lat.x with dummy point in MED 
+    - script : test_coloc_sosie.ksh 
+    - input : test_coloc.txt (no blank line !) and file /gpfsstore/rech/egi/commun/MEDWEST60/
