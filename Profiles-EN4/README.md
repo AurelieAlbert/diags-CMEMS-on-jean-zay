@@ -1,4 +1,4 @@
-# All the steps in producing plots of comparison of temp ans salt profiles between ARGO profiles and MEDWEST60 simulations
+# All the steps in producing plots of comparison of temp and salt profiles between ARGO profiles and MEDWEST60 simulations
 
 
 ## Selection of the profiles for the region and date
@@ -26,3 +26,5 @@
     - script : [test_coloc_sosie.ksh](https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/test_coloc_sosie.ksh)
     - input : [test_coloc.txt]( https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/test_coloc.txt) (no blank line !) and file /gpfsstore/rech/egi/commun/MEDWEST60/
     - output : [ij_found.out](https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/ij_found.out)
+    
+  - test of ij_from_lon_lat in a notebook : 
