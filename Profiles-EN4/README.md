@@ -28,3 +28,10 @@
     - output : [ij_found.out](https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/ij_found.out)
     
   - test of ij_from_lon_lat in a notebook : 
+  
+## Some preliminary tests to be done before processing the profile
+
+## Reading the profile depth
+  - I tried to install the seawater package via conda-pack because I couldn't append the conda list when load module load conda, kernel is installed ok but the package is not available in notebook (in ipython is fine)
+  - install miniconda, create seawater environment from profiles.txt (list of packages)
+  
