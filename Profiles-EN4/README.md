@@ -43,4 +43,9 @@
 -> all these steps in the selection processs, with options :  duration and radius of the model profiles considered, depth
 
 ## Redo the selection script
+
+  - a generic script for all the checks and selection of the fitting profiles : https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/2020-08-03-AA-selection-script-with-options.ipynb
+  - a generic script to produce the map of the selected profiles : https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/2020-08-05-AA-map-selected-profiles.ipynb
+  - a papermill script to execute those scripts with a set of parameters : https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/2020-08-05-AA-execute-map-selected-profiles.ipynb
+  - results are a jsonfile in the txt directory and a png in the plots directory
    
