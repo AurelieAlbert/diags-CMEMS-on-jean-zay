@@ -1,0 +1,65 @@
+ 
+ 
+ Use "-h" for help
+ 
+ 
+  * Input file = /gpfsstore/rech/egi/commun/MEDWEST60/MEDWEST60-I/mesh_mask.nc
+    => associated longitude/latitude/time = glamt, gphit
+ 
+  *** CONFIG: cconf =mesh_mask
+ 
+ Grid is 2D: ni, nj =         883         803
+ 
+ 
+  --- GETVAR_2D: opening file /gpfsstore/rech/egi/commun/MEDWEST60/MEDWEST60-I/m
+ esh_mask.nc for glamt !
+  --- GETVAR_2D: closing file /gpfsstore/rech/egi/commun/MEDWEST60/MEDWEST60-I/m
+ esh_mask.nc !
+ 
+  *** Minimum longitude on model grid before :   -5.68308401107788     
+  *** Maximum longitude on model grid before :    9.59771823883057     
+  *** Minimum longitude on model grid:   5.891252385481494E-006
+  *** Maximum longitude on model grid:    359.999995009362     
+ 
+  --- GETVAR_2D: opening file /gpfsstore/rech/egi/commun/MEDWEST60/MEDWEST60-I/m
+ esh_mask.nc for gphit !
+  --- GETVAR_2D: closing file /gpfsstore/rech/egi/commun/MEDWEST60/MEDWEST60-I/m
+ esh_mask.nc !
+ 
+  *** Minimum latitude on model grid :    34.8475036621094     
+  *** Maximum latitude on model grid :    45.1354560852051     
+  *** Found            1  points in txt/prof0.txt...
+ 
+ 
+ *** Point #   1 -> Box Profile_20100925 :    5.5120  41.4510
+ 
+  Source domain size:          883         803
+  Target domain size:            1           1
+ 
+  *** FIND_NEAREST_POINT => Is source grid regular ??? => F
+  *** FIND_NEAREST_POINT => Is target grid regular ??? => T
+                   => going for advanced FIND_NEAREST algorithm !
+ 
+  Min. latitude on source & target domains =>   34.84750       41.45100    
+  Max. latitude on source & target domains =>   45.13546       41.45100    
+                         => going for advanced algorithm !
+ 
+     *** Latitude binning for more efficient localization *** 
+    => binning from    39.0000000000000       to    43.0000000000000     
+ 
+      => VLAT_SPLIT_BOUNDS =
+   39.0000000000000        43.0000000000000     
+      => corresponding start values for j_s =
+         302
+      => corresponding stop values for j_s =
+         676
+ 
+ 
+ 
+ #  NEAREST POINTS ON GRID:
+ *** Point #   1, Profile_20100925 -> i,j: 0656,0526 (lon,lat:   5.5120,  41.4510)
+ 
+ 
+   ==> check file "ij_found.out" for results...
+  Bye!
+ 
