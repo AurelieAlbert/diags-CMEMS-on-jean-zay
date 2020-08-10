@@ -1,0 +1,14 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://130.84.132.27:43414'
+distributed.worker - INFO -       Start worker at:  tcp://130.84.132.27:39455
+distributed.worker - INFO -          Listening to:  tcp://130.84.132.27:39455
+distributed.worker - INFO -          dashboard at:        130.84.132.27:43830
+distributed.worker - INFO - Waiting to connect to:  tcp://130.84.132.27:46199
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                  100.00 GB
+distributed.worker - INFO -       Local Directory: /gpfsdswork/projects/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/dask-worker-space/dask-worker-space/worker-b9onj9hf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:  tcp://130.84.132.27:46199
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+slurmstepd: error: *** JOB 96292 ON jean-zay-pp1 CANCELLED AT 2020-08-06T15:26:05 ***

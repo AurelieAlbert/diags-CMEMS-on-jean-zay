@@ -31,7 +31,7 @@
   *** Found            1  points in txt/prof0.txt...
  
  
- *** Point #   1 -> Box Profile_20100925 :    5.5120  41.4510
+ *** Point #   1 -> Box Profile_20100425 :    5.9610  40.9260
  
   Source domain size:          883         803
   Target domain size:            1           1
@@ -40,24 +40,24 @@
   *** FIND_NEAREST_POINT => Is target grid regular ??? => T
                    => going for advanced FIND_NEAREST algorithm !
  
-  Min. latitude on source & target domains =>   34.84750       41.45100    
-  Max. latitude on source & target domains =>   45.13546       41.45100    
+  Min. latitude on source & target domains =>   34.84750       40.92600    
+  Max. latitude on source & target domains =>   45.13546       40.92600    
                          => going for advanced algorithm !
  
      *** Latitude binning for more efficient localization *** 
-    => binning from    39.0000000000000       to    43.0000000000000     
+    => binning from    38.0000000000000       to    42.0000000000000     
  
       => VLAT_SPLIT_BOUNDS =
-   39.0000000000000        43.0000000000000     
+   38.0000000000000        42.0000000000000     
       => corresponding start values for j_s =
-         302
+         225
       => corresponding stop values for j_s =
-         676
+         587
  
  
  
  #  NEAREST POINTS ON GRID:
- *** Point #   1, Profile_20100925 -> i,j: 0656,0526 (lon,lat:   5.5120,  41.4510)
+ *** Point #   1, Profile_20100425 -> i,j: 0685,0483 (lon,lat:   5.9610,  40.9260)
  
  
    ==> check file "ij_found.out" for results...
