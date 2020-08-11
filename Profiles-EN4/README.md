@@ -1,6 +1,10 @@
 # All the steps in producing plots of comparison of temp and salt profiles between ARGO profiles and MEDWEST60 simulations
 
+## Bugs
 
+  - in processing the profiles, when transforming depth of last level in the model in a data array in order to stack it, x and y not in the right order so the stack is not the same than for the other varaibles and wrong profiles were taken into account in the mean and percent
+  
+  
 ## The process and plot scripts
 
   - processing the profiles in a json file : https://github.com/AurelieAlbert/diags-CMEMS-on-jean-zay/blob/master/Profiles-EN4/2020-08-07-AA-process-profiles.ipynb
