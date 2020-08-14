@@ -1,0 +1,310 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+srun: Warning: can't honor --ntasks-per-node set to 40 which doesn't match the requested tasks 145 with the number of requested nodes 4. Ignoring --ntasks-per-node.
+ RANK =          114 NTASK=          145  cmd : script_profile_115.ksh
+ RANK =          118 NTASK=          145  cmd : script_profile_119.ksh
+ RANK =          122 NTASK=          145  cmd : script_profile_123.ksh
+ RANK =          138 NTASK=          145  cmd : script_profile_139.ksh
+ RANK =           21 NTASK=          145  cmd : script_profile_22.ksh
+ RANK =           80 NTASK=          145  cmd : script_profile_81.ksh
+ RANK =            6 NTASK=          145  cmd : script_profile_7.ksh
+ RANK =           33 NTASK=          145  cmd : script_profile_34.ksh
+ RANK =           18 NTASK=          145  cmd : script_profile_19.ksh
+ RANK =           49 NTASK=          145  cmd : script_profile_50.ksh
+ RANK =           77 NTASK=          145  cmd : script_profile_78.ksh
+ RANK =           34 NTASK=          145  cmd : script_profile_35.ksh
+ RANK =          106 NTASK=          145  cmd : script_profile_107.ksh
+ RANK =           89 NTASK=          145  cmd : script_profile_90.ksh
+ RANK =          126 NTASK=          145  cmd : script_profile_127.ksh
+ RANK =           93 NTASK=          145  cmd : script_profile_94.ksh
+ RANK =          110 NTASK=          145  cmd : script_profile_111.ksh
+ RANK =          117 NTASK=          145  cmd : script_profile_118.ksh
+ RANK =           38 NTASK=          145  cmd : script_profile_39.ksh
+ RANK =           86 NTASK=          145  cmd : script_profile_87.ksh
+ RANK =          141 NTASK=          145  cmd : script_profile_142.ksh
+ RANK =           26 NTASK=          145  cmd : script_profile_27.ksh
+ RANK =           46 NTASK=          145  cmd : script_profile_47.ksh
+ RANK =            5 NTASK=          145  cmd : script_profile_6.ksh
+ RANK =           74 NTASK=          145  cmd : script_profile_75.ksh
+ RANK =           78 NTASK=          145  cmd : script_profile_79.ksh
+ RANK =            9 NTASK=          145  cmd : script_profile_10.ksh
+ RANK =          142 NTASK=          145  cmd : script_profile_143.ksh
+ RANK =           57 NTASK=          145  cmd : script_profile_58.ksh
+ RANK =           14 NTASK=          145  cmd : script_profile_15.ksh
+ RANK =           61 NTASK=          145  cmd : script_profile_62.ksh
+ RANK =           90 NTASK=          145  cmd : script_profile_91.ksh
+ RANK =          102 NTASK=          145  cmd : script_profile_103.ksh
+ RANK =           13 NTASK=          145  cmd : script_profile_14.ksh
+ RANK =          130 NTASK=          145  cmd : script_profile_131.ksh
+ RANK =          134 NTASK=          145  cmd : script_profile_135.ksh
+ RANK =           10 NTASK=          145  cmd : script_profile_11.ksh
+ RANK =          133 NTASK=          145  cmd : script_profile_134.ksh
+ RANK =           54 NTASK=          145  cmd : script_profile_55.ksh
+ RANK =           17 NTASK=          145  cmd : script_profile_18.ksh
+ RANK =           58 NTASK=          145  cmd : script_profile_59.ksh
+ RANK =          105 NTASK=          145  cmd : script_profile_106.ksh
+ RANK =           62 NTASK=          145  cmd : script_profile_63.ksh
+ RANK =           70 NTASK=          145  cmd : script_profile_71.ksh
+ RANK =          125 NTASK=          145  cmd : script_profile_126.ksh
+ RANK =           82 NTASK=          145  cmd : script_profile_83.ksh
+ RANK =           25 NTASK=          145  cmd : script_profile_26.ksh
+ RANK =           42 NTASK=          145  cmd : script_profile_43.ksh
+ RANK =           73 NTASK=          145  cmd : script_profile_74.ksh
+ RANK =           94 NTASK=          145  cmd : script_profile_95.ksh
+ RANK =          101 NTASK=          145  cmd : script_profile_102.ksh
+ RANK =            2 NTASK=          145  cmd : script_profile_3.ksh
+ RANK =          121 NTASK=          145  cmd : script_profile_122.ksh
+ RANK =           50 NTASK=          145  cmd : script_profile_51.ksh
+ RANK =           29 NTASK=          145  cmd : script_profile_30.ksh
+ RANK =           66 NTASK=          145  cmd : script_profile_67.ksh
+ RANK =           45 NTASK=          145  cmd : script_profile_46.ksh
+ RANK =           98 NTASK=          145  cmd : script_profile_99.ksh
+ RANK =           69 NTASK=          145  cmd : script_profile_70.ksh
+ RANK =           30 NTASK=          145  cmd : script_profile_31.ksh
+ RANK =           37 NTASK=          145  cmd : script_profile_38.ksh
+ RANK =            1 NTASK=          145  cmd : script_profile_2.ksh
+ RANK =           85 NTASK=          145  cmd : script_profile_86.ksh
+ RANK =           22 NTASK=          145  cmd : script_profile_23.ksh
+ RANK =           81 NTASK=          145  cmd : script_profile_82.ksh
+ RANK =           97 NTASK=          145  cmd : script_profile_98.ksh
+ RANK =          109 NTASK=          145  cmd : script_profile_110.ksh
+ RANK =           65 NTASK=          145  cmd : script_profile_66.ksh
+ RANK =          129 NTASK=          145  cmd : script_profile_130.ksh
+ RANK =           53 NTASK=          145  cmd : script_profile_54.ksh
+ RANK =          113 NTASK=          145  cmd : script_profile_114.ksh
+ RANK =           41 NTASK=          145  cmd : script_profile_42.ksh
+ RANK =          137 NTASK=          145  cmd : script_profile_138.ksh
+sh: script_profile_142.ksh: command not found
+sh: script_profile_99.ksh: command not found
+sh: script_profile_83.ksh: command not found
+ RANK =            3 NTASK=          145  cmd : script_profile_4.ksh
+sh: script_profile_143.ksh: command not found
+sh: script_profile_66.ksh: command not found
+sh: script_profile_110.ksh: command not found
+sh: script_profile_102.ksh: command not found
+sh: script_profile_135.ksh: command not found
+sh: script_profile_90.ksh: command not found
+sh: script_profile_78.ksh: command not found
+sh: script_profile_7.ksh: command not found
+sh: script_profile_111.ksh: command not found
+sh: script_profile_139.ksh: command not found
+sh: script_profile_22.ksh: command not found
+sh: script_profile_130.ksh: command not found
+sh: script_profile_26.ksh: command not found
+sh: script_profile_38.ksh: command not found
+sh: script_profile_126.ksh: command not found
+sh: script_profile_50.ksh: command not found
+sh: script_profile_19.ksh: command not found
+sh: script_profile_74.ksh: command not found
+sh: script_profile_123.ksh: command not found
+sh: script_profile_107.ksh: command not found
+sh: script_profile_58.ksh: command not found
+sh: script_profile_10.ksh: command not found
+sh: script_profile_131.ksh: command not found
+sh: script_profile_34.ksh: command not found
+sh: script_profile_103.ksh: command not found
+sh: script_profile_35.ksh: command not found
+sh: script_profile_138.ksh: command not found
+sh: script_profile_114.ksh: command not found
+sh: script_profile_3.ksh: command not found
+sh: script_profile_6.ksh: command not found
+sh: script_profile_42.ksh: command not found
+sh: script_profile_127.ksh: command not found
+sh: script_profile_70.ksh: command not found
+sh: script_profile_86.ksh: command not found
+sh: script_profile_106.ksh: command not found
+sh: script_profile_119.ksh: command not found
+sh: script_profile_2.ksh: command not found
+sh: script_profile_122.ksh: command not found
+sh: script_profile_55.ksh: command not found
+sh: script_profile_30.ksh: command not found
+sh: script_profile_94.ksh: command not found
+sh: script_profile_46.ksh: command not found
+sh: script_profile_87.ksh: command not found
+sh: script_profile_134.ksh: command not found
+sh: script_profile_62.ksh: command not found
+sh: script_profile_95.ksh: command not found
+sh: script_profile_91.ksh: command not found
+sh: script_profile_75.ksh: command not found
+sh: script_profile_63.ksh: command not found
+sh: script_profile_11.ksh: command not found
+sh: script_profile_79.ksh: command not found
+sh: script_profile_47.ksh: command not found
+sh: script_profile_59.ksh: command not found
+sh: script_profile_39.ksh: command not found
+sh: script_profile_67.ksh: command not found
+sh: script_profile_15.ksh: command not found
+sh: script_profile_115.ksh: command not found
+sh: script_profile_27.ksh: command not found
+sh: script_profile_31.ksh: command not found
+sh: script_profile_71.ksh: command not found
+sh: script_profile_23.ksh: command not found
+sh: script_profile_43.ksh: command not found
+sh: script_profile_51.ksh: command not found
+ RANK =           92 NTASK=          145  cmd : script_profile_93.ksh
+ RANK =          124 NTASK=          145  cmd : script_profile_125.ksh
+ RANK =          128 NTASK=          145  cmd : script_profile_129.ksh
+ RANK =          136 NTASK=          145  cmd : script_profile_137.ksh
+ RANK =           68 NTASK=          145  cmd : script_profile_69.ksh
+ RANK =           84 NTASK=          145  cmd : script_profile_85.ksh
+ RANK =          120 NTASK=          145  cmd : script_profile_121.ksh
+ RANK =          144 NTASK=          145  cmd : script_profile_145.ksh
+ RANK =          104 NTASK=          145  cmd : script_profile_105.ksh
+ RANK =          100 NTASK=          145  cmd : script_profile_101.ksh
+ RANK =           64 NTASK=          145  cmd : script_profile_65.ksh
+ RANK =           12 NTASK=          145  cmd : script_profile_13.ksh
+ RANK =           16 NTASK=          145  cmd : script_profile_17.ksh
+ RANK =           48 NTASK=          145  cmd : script_profile_49.ksh
+ RANK =           28 NTASK=          145  cmd : script_profile_29.ksh
+ RANK =           32 NTASK=          145  cmd : script_profile_33.ksh
+ RANK =          108 NTASK=          145  cmd : script_profile_109.ksh
+ RANK =          116 NTASK=          145  cmd : script_profile_117.ksh
+ RANK =            4 NTASK=          145  cmd : script_profile_5.ksh
+ RANK =            8 NTASK=          145  cmd : script_profile_9.ksh
+ RANK =           40 NTASK=          145  cmd : script_profile_41.ksh
+ RANK =           44 NTASK=          145  cmd : script_profile_45.ksh
+ RANK =           56 NTASK=          145  cmd : script_profile_57.ksh
+ RANK =           36 NTASK=          145  cmd : script_profile_37.ksh
+ RANK =           72 NTASK=          145  cmd : script_profile_73.ksh
+ RANK =           96 NTASK=          145  cmd : script_profile_97.ksh
+ RANK =           24 NTASK=          145  cmd : script_profile_25.ksh
+ RANK =          132 NTASK=          145  cmd : script_profile_133.ksh
+ RANK =           60 NTASK=          145  cmd : script_profile_61.ksh
+ RANK =           76 NTASK=          145  cmd : script_profile_77.ksh
+ RANK =           88 NTASK=          145  cmd : script_profile_89.ksh
+ RANK =          112 NTASK=          145  cmd : script_profile_113.ksh
+ RANK =           20 NTASK=          145  cmd : script_profile_21.ksh
+ RANK =           52 NTASK=          145  cmd : script_profile_53.ksh
+ RANK =          140 NTASK=          145  cmd : script_profile_141.ksh
+ RANK =            0 NTASK=          145  cmd : script_profile_1.ksh
+sh: script_profile_125.ksh: command not found
+sh: script_profile_17.ksh: command not found
+sh: script_profile_29.ksh: command not found
+sh: script_profile_1.ksh: command not found
+sh: script_profile_101.ksh: command not found
+sh: script_profile_81.ksh: command not found
+sh: script_profile_13.ksh: command not found
+sh: script_profile_85.ksh: command not found
+sh: script_profile_25.ksh: command not found
+sh: script_profile_61.ksh: command not found
+sh: script_profile_37.ksh: command not found
+sh: script_profile_133.ksh: command not found
+sh: script_profile_41.ksh: command not found
+sh: script_profile_65.ksh: command not found
+sh: script_profile_97.ksh: command not found
+sh: script_profile_69.ksh: command not found
+sh: script_profile_117.ksh: command not found
+sh: script_profile_57.ksh: command not found
+sh: script_profile_49.ksh: command not found
+sh: script_profile_105.ksh: command not found
+sh: script_profile_89.ksh: command not found
+sh: script_profile_53.ksh: command not found
+sh: script_profile_141.ksh: command not found
+sh: script_profile_33.ksh: command not found
+sh: script_profile_9.ksh: command not found
+sh: script_profile_45.ksh: command not found
+sh: script_profile_145.ksh: command not found
+sh: script_profile_21.ksh: command not found
+sh: script_profile_113.ksh: command not found
+sh: script_profile_129.ksh: command not found
+sh: script_profile_98.ksh: command not found
+sh: script_profile_82.ksh: command not found
+sh: script_profile_54.ksh: command not found
+sh: script_profile_18.ksh: command not found
+ RANK =           43 NTASK=          145  cmd : script_profile_44.ksh
+ RANK =           55 NTASK=          145  cmd : script_profile_56.ksh
+ RANK =           63 NTASK=          145  cmd : script_profile_64.ksh
+ RANK =           75 NTASK=          145  cmd : script_profile_76.ksh
+ RANK =           19 NTASK=          145  cmd : script_profile_20.ksh
+ RANK =           95 NTASK=          145  cmd : script_profile_96.ksh
+ RANK =          123 NTASK=          145  cmd : script_profile_124.ksh
+ RANK =           11 NTASK=          145  cmd : script_profile_12.ksh
+ RANK =          103 NTASK=          145  cmd : script_profile_104.ksh
+ RANK =           91 NTASK=          145  cmd : script_profile_92.ksh
+ RANK =            7 NTASK=          145  cmd : script_profile_8.ksh
+ RANK =           39 NTASK=          145  cmd : script_profile_40.ksh
+ RANK =           15 NTASK=          145  cmd : script_profile_16.ksh
+ RANK =           31 NTASK=          145  cmd : script_profile_32.ksh
+ RANK =           59 NTASK=          145  cmd : script_profile_60.ksh
+ RANK =           35 NTASK=          145  cmd : script_profile_36.ksh
+ RANK =           87 NTASK=          145  cmd : script_profile_88.ksh
+ RANK =          143 NTASK=          145  cmd : script_profile_144.ksh
+ RANK =           83 NTASK=          145  cmd : script_profile_84.ksh
+ RANK =          127 NTASK=          145  cmd : script_profile_128.ksh
+ RANK =          111 NTASK=          145  cmd : script_profile_112.ksh
+ RANK =           67 NTASK=          145  cmd : script_profile_68.ksh
+ RANK =           47 NTASK=          145  cmd : script_profile_48.ksh
+ RANK =           51 NTASK=          145  cmd : script_profile_52.ksh
+ RANK =           99 NTASK=          145  cmd : script_profile_100.ksh
+ RANK =          139 NTASK=          145  cmd : script_profile_140.ksh
+ RANK =           27 NTASK=          145  cmd : script_profile_28.ksh
+ RANK =           71 NTASK=          145  cmd : script_profile_72.ksh
+ RANK =          115 NTASK=          145  cmd : script_profile_116.ksh
+ RANK =          119 NTASK=          145  cmd : script_profile_120.ksh
+ RANK =          131 NTASK=          145  cmd : script_profile_132.ksh
+ RANK =           79 NTASK=          145  cmd : script_profile_80.ksh
+ RANK =          107 NTASK=          145  cmd : script_profile_108.ksh
+ RANK =          135 NTASK=          145  cmd : script_profile_136.ksh
+ RANK =           23 NTASK=          145  cmd : script_profile_24.ksh
+sh: script_profile_128.ksh: command not found
+sh: script_profile_60.ksh: command not found
+sh: script_profile_20.ksh: command not found
+sh: script_profile_32.ksh: command not found
+sh: script_profile_76.ksh: command not found
+sh: script_profile_4.ksh: command not found
+sh: script_profile_44.ksh: command not found
+sh: script_profile_56.ksh: command not found
+sh: script_profile_132.ksh: command not found
+sh: script_profile_8.ksh: command not found
+sh: script_profile_72.ksh: command not found
+sh: script_profile_40.ksh: command not found
+sh: script_profile_140.ksh: command not found
+sh: script_profile_80.ksh: command not found
+sh: script_profile_48.ksh: command not found
+sh: script_profile_88.ksh: command not found
+sh: script_profile_104.ksh: command not found
+sh: script_profile_28.ksh: command not found
+sh: script_profile_96.ksh: command not found
+sh: script_profile_144.ksh: command not found
+sh: script_profile_112.ksh: command not found
+sh: script_profile_116.ksh: command not found
+sh: script_profile_100.ksh: command not found
+sh: script_profile_36.ksh: command not found
+sh: script_profile_136.ksh: command not found
+sh: script_profile_92.ksh: command not found
+sh: script_profile_120.ksh: command not found
+sh: script_profile_12.ksh: command not found
+sh: script_profile_24.ksh: command not found
+sh: script_profile_52.ksh: command not found
+sh: script_profile_124.ksh: command not found
+sh: script_profile_73.ksh: command not found
+sh: script_profile_137.ksh: command not found
+sh: script_profile_5.ksh: command not found
+sh: script_profile_93.ksh: command not found
+sh: script_profile_118.ksh: command not found
+sh: script_profile_16.ksh: command not found
+sh: script_profile_14.ksh: command not found
+sh: script_profile_64.ksh: command not found
+sh: script_profile_84.ksh: command not found
+sh: script_profile_109.ksh: command not found
+sh: script_profile_77.ksh: command not found
+sh: script_profile_121.ksh: command not found
+sh: script_profile_108.ksh: command not found
+sh: script_profile_68.ksh: command not found

@@ -1,0 +1,600 @@
+
+CommandNotFoundError: Your shell has not been properly configured to use 'conda activate'.
+To initialize your shell, run
+
+    $ conda init <SHELL_NAME>
+
+Currently supported shells are:
+  - bash
+  - fish
+  - tcsh
+  - xonsh
+  - zsh
+  - powershell
+
+See 'conda init --help' for more information and options.
+
+IMPORTANT: You may need to close and restart your shell after running 'conda init'.
+
+
+srun: Warning: can't honor --ntasks-per-node set to 40 which doesn't match the requested tasks 145 with the number of requested nodes 4. Ignoring --ntasks-per-node.
+ RANK =          134 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           33 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           83 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           36 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          142 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           87 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           53 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           50 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           91 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           77 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           66 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           99 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           85 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           94 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          103 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          101 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           10 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          111 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          121 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           14 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          131 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           45 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           86 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          139 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          133 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           78 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           23 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =            1 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          110 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           71 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           89 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =            6 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          123 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           29 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =          102 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =            3 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           65 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           54 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           63 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+ RANK =           73 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           62 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          107 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          117 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           38 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          143 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           13 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           46 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           11 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           25 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           70 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           15 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           37 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           18 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           27 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          137 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           58 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           47 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           61 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           82 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           55 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           97 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           98 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           79 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          105 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           30 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           95 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           93 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           34 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          115 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          129 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          126 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          119 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           57 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           40 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          127 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          113 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          106 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          140 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           43 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           81 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          118 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           96 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          135 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          141 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          138 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           88 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           39 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =            5 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =            2 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          136 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           75 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =            9 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          122 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          104 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =            7 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           21 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           26 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          128 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           35 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           69 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           42 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           32 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           31 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           41 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           90 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          112 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           51 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          109 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          114 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           20 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           67 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           17 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           74 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           24 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           59 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           49 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           22 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          132 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           19 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          125 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          130 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           72 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           84 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          108 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           16 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           48 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           56 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           60 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           76 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           44 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =            4 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           28 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          120 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           64 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =            8 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           68 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           80 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           52 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          100 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           12 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          116 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          144 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =            0 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =          124 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ RANK =           92 NTASK=          145  cmd : 
+ /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_prof
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+ i
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory
+sh: /gpfswork/rech/egi/rote001/git/diags-CMEMS-on-jean-zay/Profiles-EN4/script_profi: No such file or directory

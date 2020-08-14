@@ -2,6 +2,9 @@
 
 ## Bugs
 
+  - some strange in the EN4 profiles => take TEMP_ADJUSTED instead of TEMP, get rid of NAN
+  - in the script that I want to launch from bash to make it parallelized, the use of xarray when loading multiple files makes the code crash because it cannot launch a new thread (only one proc) + with Dataset it is not possible to do a MFDataset with netcdf4 files => read with a loop on the files
+  - in plot final, the mean of profiles was not compute but the last one charged was display (facepalm ...)
   - in processing the profiles, when transforming depth of last level in the model in a data array in order to stack it, x and y not in the right order so the stack is not the same than for the other varaibles and wrong profiles were taken into account in the mean and percent
   
   
